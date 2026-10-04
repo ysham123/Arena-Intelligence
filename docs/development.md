@@ -75,7 +75,7 @@ The paid matrix runs 48 paced matches of three minutes each, with one cycle in f
 
 The native target is p99 update time ≤5 ms for the default workload. Benchmark results distinguish native update work from model latency and real-time scheduling. Workloads of 12, 64, and 256 bots test scaling. See [the measured engineering report](../reports/engineering-report.md) and [offline evaluation](../reports/heldout-free.md) for results and limitations.
 
-The CI workflow is configured for Linux/macOS builds, offline native/Python checks, and Linux AddressSanitizer/UndefinedBehaviorSanitizer tests. Hosted CI execution remains unverified in this local delivery. Live model checks require a local credential and are excluded from CI.
+The CI workflow is configured for Linux/macOS builds, offline native/Python checks, and Linux AddressSanitizer/UndefinedBehaviorSanitizer tests. [Hosted verification](https://github.com/ysham123/Arena-Intelligence/actions/runs/37219973436) passed for the published application code; see [the commit and job record](../reports/github-ci.json). Live model checks require a local credential and are excluded from CI.
 
 For recorded-run auditing:
 

@@ -1,6 +1,6 @@
 {
-  "file_count": 148,
-  "total_bytes": 49400001,
+  "file_count": 149,
+  "total_bytes": 49407694,
   "known_credential_scan": "passed",
   "self_hash": "manifest excludes its own hash; archive hash covers the manifest",
   "files": [
@@ -36,8 +36,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 10669,
-      "sha256": "9185586a27c2531e6db89c4aa35993a10bd429c413f86e594f819c94d09f915a"
+      "bytes": 10814,
+      "sha256": "3b47d3064068ff0b77b4f87ed5d5bf8de2f7b5f7220232eaf71ec3ef2cbb988e"
     },
     {
       "path": "assets/fonts/IBMPlexMono-Regular.woff2",
@@ -91,8 +91,8 @@
     },
     {
       "path": "docs/development.md",
-      "bytes": 7727,
-      "sha256": "c1136148a7fa60b58546b93aabcb4a9c3dbe9491257d05c79ae59fcdeda2e0d7"
+      "bytes": 7862,
+      "sha256": "b36a9e0129bb73d3f4d0284ab6a000629916613aabb1612386fc51fde7f90d93"
     },
     {
       "path": "docs/install.md",
@@ -121,8 +121,8 @@
     },
     {
       "path": "docs/release-notes-0.2.0.md",
-      "bytes": 2851,
-      "sha256": "6326fd0442187acc657f0b99a01c8981c10e8bb2496d6ac668c79bca0358fa85"
+      "bytes": 2987,
+      "sha256": "3c2878411769fea42f22233faf92360ede6701aeccc04bf273e24041e42b785e"
     },
     {
       "path": "docs/replay-preview.png",
@@ -325,6 +325,11 @@
       "sha256": "339de503475d68ce80689794f8ef7cf26a95b58c05c9d19bbbfb0c4d86c12eec"
     },
     {
+      "path": "reports/github-ci.json",
+      "bytes": 7014,
+      "sha256": "340def02d2f133cebf1d2a43c76e5d91f75d182471204482e76b2d24919488b1"
+    },
+    {
       "path": "reports/heldout-claude-metadata.json",
       "bytes": 4044,
       "sha256": "3474793309bbe842b3cb162894fdbac38ccd7769f366fbf89ce5804d69e1e972"
@@ -396,8 +401,8 @@
     },
     {
       "path": "reports/product-validation.md",
-      "bytes": 5082,
-      "sha256": "9dc189a2a41019cb8d036d92102010aedbc25e359c435506dbe35b8a9d29e3be"
+      "bytes": 5345,
+      "sha256": "5198581683940357d6d6ca0c3fca372963c6b5a13b43ed498918e0e7e7c95516"
     },
     {
       "path": "reports/replay-verification-free.json",

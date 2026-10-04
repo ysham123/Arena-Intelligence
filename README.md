@@ -121,7 +121,7 @@ uv run arena replay runs/demo --engine build/release/arena-sim
 
 Frontend development uses Node 24 and the locked dependencies in `frontend/`. Run `npm ci`, `npm run test`, and `npm run build` there. The compiled interface is already included in the Python package.
 
-[Offline CI](https://github.com/ysham123/Arena-Intelligence/actions/workflows/ci.yml) covers Linux/macOS builds, Python and frontend tests, and Linux AddressSanitizer/UndefinedBehaviorSanitizer checks. Paid model calls are excluded from CI. Live Claude runs require explicit paid opt-in and use a persistent ledger with a hard $55 project ceiling; see [development and experiments](docs/development.md) before running them.
+[Hosted CI](https://github.com/ysham123/Arena-Intelligence/actions/runs/37219973436) passed all four jobs for the published application code: Linux and macOS native/Python tests, frontend tests and build, and Linux AddressSanitizer/UndefinedBehaviorSanitizer checks. The [verification record](reports/github-ci.json) identifies the tested commit. Paid model calls are excluded from CI. Live Claude runs require explicit paid opt-in and use a persistent ledger with a hard $55 project ceiling; see [development and experiments](docs/development.md) before running them.
 
 ## Documentation and reproducibility
 
