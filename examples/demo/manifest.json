@@ -1,0 +1,25 @@
+{
+  "config": {
+    "bots_per_team": 6,
+    "duration_ticks": 1800,
+    "mirrored": false,
+    "opponent_policy": "switch",
+    "paced": true,
+    "planning_ticks": [
+      0,
+      300,
+      600,
+      900,
+      1200,
+      1500
+    ],
+    "reasoner_team": 0,
+    "report_delay_ticks": 20,
+    "report_drop_rate": 0.1,
+    "seed": 101,
+    "tick_hz": 10
+  },
+  "engine_version": "0.1.0",
+  "run_id": "175697cd7af7429fab9b93b6fa150ada",
+  "schema_version": 1
+}

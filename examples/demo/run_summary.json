@@ -1,0 +1,19 @@
+{
+  "run_id": "175697cd7af7429fab9b93b6fa150ada",
+  "backend": "multi",
+  "mode": "paced",
+  "planning_opportunities": 6,
+  "completed_cycles": 6,
+  "duration_seconds": 180.05941966699902,
+  "terminal": {
+    "run_id": "175697cd7af7429fab9b93b6fa150ada",
+    "schema_version": 1,
+    "scores": [
+      262,
+      169
+    ],
+    "tick": 1800,
+    "type": "finished",
+    "winner": 0
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "wheel": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena_intelligence-0.2.0-py3-none-any.whl",
+  "wheel_sha256": "aeaaefa1484920c3339d99d615b6554ad9be6f5e918f17d27cd395b41edabd33",
+  "installation": "/private/tmp/arena-final-wheel-79qgn6au/installation",
+  "port": 61909,
+  "version": [
+    "0.2.0",
+    "0.2.0"
+  ],
+  "references": [
+    {
+      "name": "scenario-004-multi.json",
+      "sha256": "4d1ec058485ca3df3400d6eaed7c6145ab7c2b540d713b5d3e88be2b72ffc8ef",
+      "bytes": 1952575,
+      "events": 733,
+      "comparison_context": {
+        "scenario_fingerprint": "7dd50236f9714ea8868bd48cd2a5a2261d72a8ed78bc83888e4cddcd79a52e00",
+        "scenario_label": "Seed 101 \u00b7 6 bots/team \u00b7 180 s"
+      }
+    },
+    {
+      "name": "scenario-004-single.json",
+      "sha256": "ed038e664c46b88337723ea69f66bf78500de83a63815370916601898aa143bd",
+      "bytes": 1949699,
+      "events": 733,
+      "comparison_context": {
+        "scenario_fingerprint": "7dd50236f9714ea8868bd48cd2a5a2261d72a8ed78bc83888e4cddcd79a52e00",
+        "scenario_label": "Seed 101 \u00b7 6 bots/team \u00b7 180 s"
+      }
+    }
+  ],
+  "health": {
+    "ok": true,
+    "version": "0.2.0",
+    "scope": "synthetic_simulation",
+    "capabilities": {
+      "native_demo": false,
+      "recorded_sample": true,
+      "ingestion": true,
+      "paid_native_available": false
+    },
+    "limits": {
+      "body_bytes": 262144,
+      "event_bytes": 49152,
+      "events_per_batch": 100,
+      "events_per_minute": 600,
+      "entities_per_snapshot": 128,
+      "connections": 50,
+      "sessions": 200,
+      "events_per_session": 20000,
+      "total_events": 100000
+    }
+  },
+  "frontend_assets": [
+    {
+      "path": "/app/assets/index-DyzXIdlO.js",
+      "bytes": 281564,
+      "content_type": "text/javascript"
+    },
+    {
+      "path": "/app/assets/index-BHKkxE_4.css",
+      "bytes": 27292,
+      "content_type": "text/css"
+    }
+  ],
+  "fonts": [
+    {
+      "path": "/fonts/IBMPlexMono-Regular.woff2",
+      "bytes": 49248
+    },
+    {
+      "path": "/fonts/IBMPlexSans-Medium.woff2",
+      "bytes": 66740
+    },
+    {
+      "path": "/fonts/IBMPlexSans-Regular.woff2",
+      "bytes": 63020
+    },
+    {
+      "path": "/fonts/IBMPlexSans-SemiBold.woff2",
+      "bytes": 67060
+    }
+  ],
+  "comparison": {
+    "comparable": true,
+    "left": {
+      "coverage": 1.0,
+      "accuracy": 0.6666666666666666,
+      "brier": 0.49416666666666664,
+      "opportunities": 6,
+      "scored": 6,
+      "latency": 5.575302020995878,
+      "score": 266,
+      "cost": 0.104118
+    },
+    "right": {
+      "coverage": 1.0,
+      "accuracy": 0.6666666666666666,
+      "brier": 0.4891666666666667,
+      "opportunities": 6,
+      "scored": 6,
+      "latency": 12.200132589990972,
+      "score": 262,
+      "cost": 0.231402
+    },
+    "score_delta": -4
+  },
+  "sdk_session": {
+    "id": "9f4484dbb439412a802a2301641869eb",
+    "status": "completed",
+    "frames": 2,
+    "evidence": 2,
+    "assessments": 1
+  },
+  "restart_persisted": true
+}

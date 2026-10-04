@@ -1,0 +1,130 @@
+{
+  "runs": [
+    {
+      "backend": "single",
+      "cycles": [
+        {
+          "cutoff_tick": 0,
+          "status": "valid",
+          "latency_seconds": 4.43540966702858,
+          "cost_usd": 0.01176,
+          "prompt_bytes": {
+            "analyst": 4323
+          },
+          "input_tokens": 3790,
+          "output_tokens": 418,
+          "model_config": {
+            "model": "claude-sonnet-5-5",
+            "context_version": "compact-v1",
+            "initial_evidence_checks": 3,
+            "effort": "medium",
+            "thinking": "between_tools",
+            "max_output_tokens_per_call": 8192,
+            "max_calls_per_cycle": 1,
+            "total_output_token_allowance": 8192,
+            "input_usd_per_million": 2,
+            "output_usd_per_million": 10
+          }
+        },
+        {
+          "cutoff_tick": 300,
+          "status": "valid",
+          "latency_seconds": 6.107450040988624,
+          "cost_usd": 0.018126,
+          "prompt_bytes": {
+            "analyst": 8846
+          },
+          "input_tokens": 5998,
+          "output_tokens": 613,
+          "model_config": {
+            "model": "claude-sonnet-5-5",
+            "context_version": "compact-v1",
+            "initial_evidence_checks": 3,
+            "effort": "medium",
+            "thinking": "between_tools",
+            "max_output_tokens_per_call": 8192,
+            "max_calls_per_cycle": 1,
+            "total_output_token_allowance": 8192,
+            "input_usd_per_million": 2,
+            "output_usd_per_million": 10
+          }
+        }
+      ],
+      "result": {
+        "checksum": "5c17b2acb0ddee10",
+        "engine_version": "0.1.0",
+        "scores": [
+          114,
+          54
+        ],
+        "status": "completed",
+        "tick": 650,
+        "winner": 0
+      }
+    },
+    {
+      "backend": "multi",
+      "cycles": [
+        {
+          "cutoff_tick": 0,
+          "status": "valid",
+          "latency_seconds": 8.271070957998745,
+          "cost_usd": 0.023216,
+          "prompt_bytes": {
+            "analyst": 4323,
+            "challenger": 6082
+          },
+          "input_tokens": 7978,
+          "output_tokens": 726,
+          "model_config": {
+            "model": "claude-sonnet-5-5",
+            "context_version": "compact-v1",
+            "initial_evidence_checks": 3,
+            "effort": "medium",
+            "thinking": "between_tools",
+            "max_output_tokens_per_call": 4096,
+            "max_calls_per_cycle": 2,
+            "total_output_token_allowance": 8192,
+            "input_usd_per_million": 2,
+            "output_usd_per_million": 10
+          }
+        },
+        {
+          "cutoff_tick": 300,
+          "status": "valid",
+          "latency_seconds": 11.182222875009757,
+          "cost_usd": 0.038003999999999996,
+          "prompt_bytes": {
+            "analyst": 8846,
+            "challenger": 12321
+          },
+          "input_tokens": 13152,
+          "output_tokens": 1170,
+          "model_config": {
+            "model": "claude-sonnet-5-5",
+            "context_version": "compact-v1",
+            "initial_evidence_checks": 3,
+            "effort": "medium",
+            "thinking": "between_tools",
+            "max_output_tokens_per_call": 4096,
+            "max_calls_per_cycle": 2,
+            "total_output_token_allowance": 8192,
+            "input_usd_per_million": 2,
+            "output_usd_per_million": 10
+          }
+        }
+      ],
+      "result": {
+        "checksum": "50b3745fd3f09d27",
+        "engine_version": "0.1.0",
+        "scores": [
+          89,
+          54
+        ],
+        "status": "completed",
+        "tick": 650,
+        "winner": 0
+      }
+    }
+  ]
+}

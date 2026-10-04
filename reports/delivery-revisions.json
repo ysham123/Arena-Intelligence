@@ -1,0 +1,30 @@
+{
+  "configuration_unchanged": true,
+  "context_version": "compact-v1",
+  "changes": {
+    "src/arena_intelligence/cli.py": {
+      "study_sha256": "335df3e9a26879f948df8be09b3d5c71257d5d7a5f0b67e1d0e4ac9dfaf74b69",
+      "delivery_sha256": "0aa5318447409a35db01e6f3ac94a729e8bead19417bc9fe6464bf13aa2713c2"
+    },
+    "src/arena_intelligence/protocol.py": {
+      "study_sha256": "d1a7912259dd6158617a9b8ead321c376ff9cbb3619a69fdc200933fce2715e4",
+      "delivery_sha256": "4f07522755068abdf31829d6f29a326cc93bf3ea2acf6da83f95bcc85510ddcf"
+    },
+    "src/arena_intelligence/runner.py": {
+      "study_sha256": "f0ae74d9f697db1cbc598fae2e3f5b955c43eee8fe3f5f76cf30846f079e7c49",
+      "delivery_sha256": "ff066734627c64cc2ba1d0350faa81f0648ce2032718f5a2821d9c734de3de37"
+    },
+    "src/arena_intelligence/viewer.py": {
+      "study_sha256": "5b583386af85dd5bb8f9b55ef961b61b56fd32e209ae919789c35abd4986b316",
+      "delivery_sha256": "f06921070e916eb817a7b0fcfbefc133aa0a992e65e7f8997c90039e25385b74"
+    }
+  },
+  "reason": {
+    "src/arena_intelligence/cli.py": "Installed-wheel paths resolve from invocation directory.",
+    "src/arena_intelligence/protocol.py": "Reject configuration values outside the existing native contract. Inference output schemas are unchanged.",
+    "src/arena_intelligence/runner.py": "Fail immediately on native startup error envelopes; all frozen scenarios are valid.",
+    "src/arena_intelligence/viewer.py": "Presentation, licensed assets, and public-friendly telemetry projection.",
+    "src/arena_intelligence/reporting.py": "No change expected; review any difference."
+  },
+  "experiment_effect": "Accepted valid scenario paths, observations, prompts, inference schemas, effort, spending ceilings, and assignments are unchanged. Historical study hashes are retained."
+}

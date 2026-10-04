@@ -1,0 +1,97 @@
+{
+  "started_at_utc": "2026-10-04T05:29:55.760578+00:00",
+  "conditions_sha256": "de9f79cc89f28654b657110a79fe6f28524ea598928d628ea5bd2da052473296",
+  "model_configurations": {
+    "single": {
+      "model": "claude-sonnet-5-5",
+      "context_version": "compact-v1",
+      "initial_evidence_checks": 3,
+      "effort": "medium",
+      "thinking": "between_tools",
+      "max_output_tokens_per_call": 8192,
+      "max_calls_per_cycle": 1,
+      "total_output_token_allowance": 8192,
+      "input_usd_per_million": 2,
+      "output_usd_per_million": 10
+    },
+    "multi": {
+      "model": "claude-sonnet-5-5",
+      "context_version": "compact-v1",
+      "initial_evidence_checks": 3,
+      "effort": "medium",
+      "thinking": "between_tools",
+      "max_output_tokens_per_call": 4096,
+      "max_calls_per_cycle": 2,
+      "total_output_token_allowance": 8192,
+      "input_usd_per_million": 2,
+      "output_usd_per_million": 10
+    }
+  },
+  "source_sha256": {
+    "native/include/arena/engine.hpp": "6dc903b8356b5415d640453160fa1d87e200aa6a9d92395ef28b57afe017f367",
+    "native/src/engine.cpp": "ec05e2f108567d4e241e446dd9b152655cbdba427a3603e2c7ba53c438027a3e",
+    "native/src/main.cpp": "6ade19749c05a60e664ee87d86d2df1f03e934e0e4fe848d15b12df58ea405e6",
+    "src/arena_intelligence/__init__.py": "521576d21fae6bf949678b594ecc1fcaceea1f3c755afb0ef9511aa13f35b083",
+    "src/arena_intelligence/__main__.py": "6d8b7d7846a845059d7a3107143f11131f63c5511d669b44085b15ec5e3d2279",
+    "src/arena_intelligence/budget.py": "aafda0db9e8080e532db1f356469c99c7e5d19a1ed4ff0ba3de24e84ba415c7d",
+    "src/arena_intelligence/cli.py": "335df3e9a26879f948df8be09b3d5c71257d5d7a5f0b67e1d0e4ac9dfaf74b69",
+    "src/arena_intelligence/context.py": "6835b8e19228d23cefe25b494089ba4e546a26d1249c80685367a150dc373baa",
+    "src/arena_intelligence/evidence.py": "77c5f385bfc3084eac1bba44256fb3d86598a6776045ab31bf674b2620b1b0b2",
+    "src/arena_intelligence/process.py": "9ebdba1fc13ae4642e44c233a058536f585321a2b686a601fff0b6eaa72cce6f",
+    "src/arena_intelligence/protocol.py": "d1a7912259dd6158617a9b8ead321c376ff9cbb3619a69fdc200933fce2715e4",
+    "src/arena_intelligence/reasoner.py": "9f4b115cb2715a207a3e6971bab694a7acab25016075eb7f435531731c30701f",
+    "src/arena_intelligence/reporting.py": "c997ecb7478657fcd8550966d6f229fa5e1655db81611e41208bf73509904201",
+    "src/arena_intelligence/runner.py": "f0ae74d9f697db1cbc598fae2e3f5b955c43eee8fe3f5f76cf30846f079e7c49",
+    "src/arena_intelligence/viewer.py": "5b583386af85dd5bb8f9b55ef961b61b56fd32e209ae919789c35abd4986b316"
+  },
+  "parallel_matches": 8,
+  "paced": true,
+  "total_runs": 48,
+  "observations": "closed-loop: each controller affects its later sensor coverage",
+  "budget_before": {
+    "charged_or_reserved_usd": 0.218178,
+    "ceiling_usd": 52.55,
+    "buckets": {
+      "dev": {
+        "used_usd": 0.218178,
+        "limit_usd": 10.0
+      },
+      "eval": {
+        "used_usd": 0.0,
+        "limit_usd": 35.0
+      },
+      "demo": {
+        "used_usd": 0.0,
+        "limit_usd": 10.0
+      }
+    },
+    "unreconciled_requests": 0,
+    "requests": 10
+  },
+  "completed_at_utc": "2026-10-04T05:48:45.302252+00:00",
+  "elapsed_seconds": 1129.5064501670422,
+  "budget_after": {
+    "charged_or_reserved_usd": 24.408686,
+    "ceiling_usd": 52.55,
+    "buckets": {
+      "dev": {
+        "used_usd": 0.218178,
+        "limit_usd": 10.0
+      },
+      "eval": {
+        "used_usd": 24.190508,
+        "limit_usd": 35.0
+      },
+      "demo": {
+        "used_usd": 0.0,
+        "limit_usd": 10.0
+      }
+    },
+    "unreconciled_requests": 8,
+    "requests": 450
+  },
+  "one_cycle_inflight_per_match": true,
+  "metadata_clarification": "Each match has six scheduled cycles, with at most one in flight. The shared budget_after snapshot was captured during postprocessing while the separate matched-input benchmark was active; its reserved entries belong to that benchmark, not uncertain closed-loop calls.",
+  "study_known_cost_usd": 7.698988,
+  "study_uncertain_cost_reservations": 0
+}

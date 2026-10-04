@@ -1,0 +1,9 @@
+# Keep generated recordings, browser bundles, and third-party assets out of
+# GitHub language statistics and expanded source diffs.
+examples/demo/** linguist-generated=true
+src/arena_intelligence/assets/app/** linguist-generated=true
+src/arena_intelligence/assets/reference-pair/** linguist-generated=true
+src/arena_intelligence/assets/fonts/** linguist-vendored=true
+src/arena_intelligence/assets/licenses/** linguist-vendored=true
+assets/fonts/** linguist-vendored=true
+reports/*.json linguist-generated=true

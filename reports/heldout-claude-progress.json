@@ -1,0 +1,28 @@
+{
+  "completed": 48,
+  "total": 48,
+  "condition_index": 23,
+  "backend": "multi",
+  "terminal": "finished",
+  "elapsed_seconds": 1080.5376079580165,
+  "budget": {
+    "charged_or_reserved_usd": 7.917166,
+    "ceiling_usd": 52.55,
+    "buckets": {
+      "dev": {
+        "used_usd": 0.218178,
+        "limit_usd": 10.0
+      },
+      "eval": {
+        "used_usd": 7.698988,
+        "limit_usd": 35.0
+      },
+      "demo": {
+        "used_usd": 0.0,
+        "limit_usd": 10.0
+      }
+    },
+    "unreconciled_requests": 0,
+    "requests": 442
+  }
+}

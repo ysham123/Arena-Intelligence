@@ -1,0 +1,64 @@
+{
+  "measured_at_utc": "2026-10-04T05:23:07.819869+00:00",
+  "platform": "macOS-14.4.1-arm64-arm-64bit-Mach-O",
+  "api_calls": 0,
+  "measurement": "10Hz paced C++ with asynchronous delayed Python mock",
+  "cases": [
+    {
+      "name": "delay-10s",
+      "injected_delay_seconds": 10,
+      "deadline_seconds": 20,
+      "planned_ticks": 150,
+      "recorded_ticks": 150,
+      "wall_seconds": 15.029595915984828,
+      "cycle_statuses": [
+        "valid"
+      ],
+      "cycle_latency_seconds": [
+        10.002738834009506
+      ],
+      "accepted": [
+        true
+      ],
+      "application_ticks": [
+        101
+      ],
+      "fallback_application_ticks": [],
+      "replay": {
+        "commands_verified": 1,
+        "final_tick": 150,
+        "network_calls": 0,
+        "observations_verified": 1,
+        "ok": true,
+        "states_verified": 151
+      }
+    },
+    {
+      "name": "deadline-25s",
+      "injected_delay_seconds": 25,
+      "deadline_seconds": 20,
+      "planned_ticks": 250,
+      "recorded_ticks": 250,
+      "wall_seconds": 25.02910308400169,
+      "cycle_statuses": [
+        "timeout"
+      ],
+      "cycle_latency_seconds": [
+        20.002218041976448
+      ],
+      "accepted": [],
+      "application_ticks": [],
+      "fallback_application_ticks": [
+        201
+      ],
+      "replay": {
+        "commands_verified": 1,
+        "final_tick": 250,
+        "network_calls": 0,
+        "observations_verified": 1,
+        "ok": true,
+        "states_verified": 251
+      }
+    }
+  ]
+}

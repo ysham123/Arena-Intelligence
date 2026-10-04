@@ -1,0 +1,53 @@
+{
+  "build_mode": "release",
+  "compiler": "Apple LLVM 15.0.0 (clang-1500.3.9.4)",
+  "engine_version": "0.1.0",
+  "hardware": {
+    "architecture": "arm64",
+    "logical_cores": 10,
+    "system": "Darwin"
+  },
+  "measurement": "Engine::step only; excludes startup, IPC, records, and LLM latency",
+  "type": "benchmark",
+  "workloads": [
+    {
+      "elapsed_seconds": 0.001282875,
+      "p99_under_5ms": true,
+      "process_peak_rss_bytes": 1753088,
+      "samples": 1100,
+      "tick_us": {
+        "max": 44.708,
+        "p50": 0.041,
+        "p95": 5.625,
+        "p99": 6.958
+      },
+      "total_bots": 12
+    },
+    {
+      "elapsed_seconds": 0.003757042,
+      "p99_under_5ms": true,
+      "process_peak_rss_bytes": 2015232,
+      "samples": 1100,
+      "tick_us": {
+        "max": 33.792,
+        "p50": 0.041,
+        "p95": 26.125,
+        "p99": 30.166999999999998
+      },
+      "total_bots": 64
+    },
+    {
+      "elapsed_seconds": 0.021388083,
+      "p99_under_5ms": true,
+      "process_peak_rss_bytes": 2179072,
+      "samples": 1100,
+      "tick_us": {
+        "max": 231.333,
+        "p50": 0.041,
+        "p95": 132.291,
+        "p99": 148.959
+      },
+      "total_bots": 256
+    }
+  ]
+}

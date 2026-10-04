@@ -1,0 +1,208 @@
+{
+  "started_at_utc": "2026-10-04T05:48:41.358782+00:00",
+  "reference_streams": 24,
+  "backends": [
+    "frequency",
+    "single",
+    "multi"
+  ],
+  "parallel_reference_streams": 4,
+  "maximum_concurrent_configuration_cycles": 12,
+  "maximum_concurrent_paid_cycles": 8,
+  "source_sha256": {
+    "tools/compare_observations.py": "5f65d230610faa8a6d056cf078f9f310681720a6796ce29fa2147918f515dab5",
+    "src/arena_intelligence/reasoner.py": "9f4b115cb2715a207a3e6971bab694a7acab25016075eb7f435531731c30701f",
+    "src/arena_intelligence/context.py": "6835b8e19228d23cefe25b494089ba4e546a26d1249c80685367a150dc373baa",
+    "src/arena_intelligence/evidence.py": "77c5f385bfc3084eac1bba44256fb3d86598a6776045ab31bf674b2620b1b0b2",
+    "src/arena_intelligence/protocol.py": "4f07522755068abdf31829d6f29a326cc93bf3ea2acf6da83f95bcc85510ddcf",
+    "src/arena_intelligence/budget.py": "aafda0db9e8080e532db1f356469c99c7e5d19a1ed4ff0ba3de24e84ba415c7d",
+    "src/arena_intelligence/reporting.py": "c997ecb7478657fcd8550966d6f229fa5e1655db81611e41208bf73509904201"
+  },
+  "one_cycle_inflight_per_configuration": true,
+  "delivery_interval_seconds": 30.0,
+  "deadline_seconds": 20.0,
+  "paced": true,
+  "measurement_kind": "live_api",
+  "references": [
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-000-mock",
+      "source_sha256": "3118ffe216661b7a9aa9122d7d3259ac9b66323ffc9b1c336c481ab312812716"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-001-mock",
+      "source_sha256": "2b28946853497bce89a7b6b7d67ee76eab0724828e11172b1dc7925d89363a13"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-002-mock",
+      "source_sha256": "93ccc6a447a6bcdd75ea93761510512427a37f03729629818e3d5a39676f7ecd"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-003-mock",
+      "source_sha256": "379e60bf7964e8630880c9e68ac579b674480ef8ca67a21fec5b150dccf23644"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-004-mock",
+      "source_sha256": "7c837a06b8927ef8290b15e8610ae6831001092da496b459a12ce36230e227c3"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-005-mock",
+      "source_sha256": "b2bf9e321b607202602f6a266f0b770bc20cbc2ef1314c40a60523bf70d259ef"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-006-mock",
+      "source_sha256": "db746cc150cc5babb57a21cec4fcf86804f2b253f03db504cda3218de0a7c23b"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-007-mock",
+      "source_sha256": "95cc15c23e43a093d0bb74a7219aae19cd83fdd02fa36783ac40861cfe23faef"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-008-mock",
+      "source_sha256": "9137ce1b33487c39607401fe1845715f002165e1c7cf884c69dca50f14424d02"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-009-mock",
+      "source_sha256": "4042ce2ac5d97d1c15272700ae430f2e5153aa0d3775f7a7040e1b87bae14eef"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-010-mock",
+      "source_sha256": "74971724c5f4c8af1ef2af2d700f4bcffd10f6f725d32ec0fb7b46811afe6400"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-011-mock",
+      "source_sha256": "12e978c5751c6689275d6e20dc43d5593683946eda28fdf1d115b04e2432caa0"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-012-mock",
+      "source_sha256": "93d3dc553f92710cfbb542ff909292fbe319c4a1418fa796d5a60b390a34b140"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-013-mock",
+      "source_sha256": "b17233cf5da7c6e106d531435f9977186c44547e8fbd8bbd08231f32912fd280"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-014-mock",
+      "source_sha256": "e068d959dc5669c6b3d51447712659da0b0072afe9c78fa699763eccbd4bec7c"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-015-mock",
+      "source_sha256": "d221aeed931e34cd0f02ad1543c9428dfa51123d53e49280ad58c2feeed98ae1"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-016-mock",
+      "source_sha256": "72eacbe9df82690c7b94ec0425ed67a05d9b992d7081a9286e8e284eb4a9fa2a"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-017-mock",
+      "source_sha256": "63552d3712c51ee71eca2e34846144f0ea05f7ea349f8665ee5d65bca8c7b12c"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-018-mock",
+      "source_sha256": "719dbcc08cbe3923c38e55bc129963913c4248e6230edaee204adeab818ad8fd"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-019-mock",
+      "source_sha256": "2c3c88bb0238f9707382fe664c5abe44dd778ededdd74e7f59e5d33b2af00d4b"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-020-mock",
+      "source_sha256": "94f7296957dd9c2b08d81ce5ce28da618b70582342f46ef7eb486030aaecbe71"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-021-mock",
+      "source_sha256": "3ce6a26890e6340ff8df1d4499716cf907e9dcf64abec6096c4712bfb7058c37"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-022-mock",
+      "source_sha256": "c8d1b13d871f6c58f0ec9b7856053929f154f6406296eac2725e10ee77bc977e"
+    },
+    {
+      "directory": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-023-mock",
+      "source_sha256": "871780222d4591a7e72a2a54d5112fb974bb76c621b1c7edc4f054493915399e"
+    }
+  ],
+  "model_configurations": {
+    "frequency": {
+      "model": null,
+      "context_version": "compact-v1",
+      "initial_evidence_checks": 3,
+      "effort": null,
+      "thinking": null,
+      "max_output_tokens_per_call": 0,
+      "max_calls_per_cycle": 0,
+      "total_output_token_allowance": 0,
+      "input_usd_per_million": 0,
+      "output_usd_per_million": 0
+    },
+    "single": {
+      "model": "claude-sonnet-5-5",
+      "context_version": "compact-v1",
+      "initial_evidence_checks": 3,
+      "effort": "medium",
+      "thinking": "between_tools",
+      "max_output_tokens_per_call": 8192,
+      "max_calls_per_cycle": 1,
+      "total_output_token_allowance": 8192,
+      "input_usd_per_million": 2,
+      "output_usd_per_million": 10
+    },
+    "multi": {
+      "model": "claude-sonnet-5-5",
+      "context_version": "compact-v1",
+      "initial_evidence_checks": 3,
+      "effort": "medium",
+      "thinking": "between_tools",
+      "max_output_tokens_per_call": 4096,
+      "max_calls_per_cycle": 2,
+      "total_output_token_allowance": 8192,
+      "input_usd_per_million": 2,
+      "output_usd_per_million": 10
+    }
+  },
+  "budget_before": {
+    "charged_or_reserved_usd": 7.917166,
+    "ceiling_usd": 52.55,
+    "buckets": {
+      "dev": {
+        "used_usd": 0.218178,
+        "limit_usd": 10.0
+      },
+      "eval": {
+        "used_usd": 7.698988,
+        "limit_usd": 35.0
+      },
+      "demo": {
+        "used_usd": 0.0,
+        "limit_usd": 10.0
+      }
+    },
+    "unreconciled_requests": 0,
+    "requests": 442
+  },
+  "model_access": {
+    "requested_model": "claude-sonnet-5-5",
+    "accessible_model_id": "claude-sonnet-5-5"
+  },
+  "completed_at_utc": "2026-10-04T06:05:08.278425+00:00",
+  "elapsed_seconds": 986.9250506670214,
+  "budget_after": {
+    "charged_or_reserved_usd": 15.740062,
+    "ceiling_usd": 52.55,
+    "buckets": {
+      "dev": {
+        "used_usd": 0.218178,
+        "limit_usd": 10.0
+      },
+      "eval": {
+        "used_usd": 15.521884,
+        "limit_usd": 35.0
+      },
+      "demo": {
+        "used_usd": 0.0,
+        "limit_usd": 10.0
+      }
+    },
+    "unreconciled_requests": 0,
+    "requests": 874
+  }
+}

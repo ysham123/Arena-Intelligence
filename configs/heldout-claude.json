@@ -1,0 +1,416 @@
+{
+  "backends": [
+    "single",
+    "multi"
+  ],
+  "scenarios": [
+    {
+      "seed": 101,
+      "opponent_policy": "nearest",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 101,
+      "opponent_policy": "nearest",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 101,
+      "opponent_policy": "holder",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 101,
+      "opponent_policy": "holder",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 101,
+      "opponent_policy": "switch",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 101,
+      "opponent_policy": "switch",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 211,
+      "opponent_policy": "nearest",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 211,
+      "opponent_policy": "nearest",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 211,
+      "opponent_policy": "holder",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 211,
+      "opponent_policy": "holder",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 211,
+      "opponent_policy": "switch",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 211,
+      "opponent_policy": "switch",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 307,
+      "opponent_policy": "nearest",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 307,
+      "opponent_policy": "nearest",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 307,
+      "opponent_policy": "holder",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 307,
+      "opponent_policy": "holder",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 307,
+      "opponent_policy": "switch",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 307,
+      "opponent_policy": "switch",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 401,
+      "opponent_policy": "nearest",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 401,
+      "opponent_policy": "nearest",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 401,
+      "opponent_policy": "holder",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 401,
+      "opponent_policy": "holder",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 401,
+      "opponent_policy": "switch",
+      "mirrored": false,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    },
+    {
+      "seed": 401,
+      "opponent_policy": "switch",
+      "mirrored": true,
+      "bots_per_team": 6,
+      "duration_ticks": 1800,
+      "planning_ticks": [
+        0,
+        300,
+        600,
+        900,
+        1200,
+        1500
+      ],
+      "report_drop_rate": 0.1,
+      "report_delay_ticks": 20
+    }
+  ]
+}

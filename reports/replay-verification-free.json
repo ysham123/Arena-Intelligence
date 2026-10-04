@@ -1,0 +1,453 @@
+{
+  "verified_at_utc": "2026-10-04T05:27:15.238033+00:00",
+  "engine_sha256": "206982599af976f8d329dcb545deca88513ebb558cb535b62fc6bb4d6d1cf7a8",
+  "run_count": 49,
+  "states_verified": 87099,
+  "commands_verified": 290,
+  "observations_verified": 290,
+  "network_calls": 0,
+  "elapsed_seconds": 21.14354675001232,
+  "runs": [
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/claude-pilot",
+      "commands_verified": 2,
+      "final_tick": 650,
+      "network_calls": 0,
+      "observations_verified": 2,
+      "ok": true,
+      "states_verified": 651
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-000-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-000-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-001-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-001-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-002-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-002-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-003-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-003-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-004-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-004-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-005-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-005-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-006-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-006-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-007-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-007-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-008-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-008-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-009-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-009-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-010-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-010-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-011-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-011-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-012-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-012-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-013-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-013-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-014-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-014-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-015-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-015-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-016-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-016-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-017-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-017-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-018-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-018-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-019-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-019-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-020-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-020-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-021-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-021-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-022-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-022-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-023-frequency",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    },
+    {
+      "run_dir": "/Users/yosefshammout/Documents/Codex/2026-10-03/iw/outputs/arena-intelligence/runs/heldout-final/scenario-023-mock",
+      "commands_verified": 6,
+      "final_tick": 1800,
+      "network_calls": 0,
+      "observations_verified": 6,
+      "ok": true,
+      "states_verified": 1801
+    }
+  ]
+}

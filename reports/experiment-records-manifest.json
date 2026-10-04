@@ -1,0 +1,4913 @@
+{
+  "file_count": 981,
+  "total_bytes": 3577402879,
+  "known_credential_scan": "passed",
+  "self_hash": "manifest excludes its own hash; archive hash covers the manifest",
+  "files": [
+    {
+      "path": "runs/claude-pilot/commands.ndjson",
+      "bytes": 3873,
+      "sha256": "45a0b7827d19299ba5ab707094b859b0a6fa8b54031490295f03fde8c9f87e93"
+    },
+    {
+      "path": "runs/claude-pilot/host_events.ndjson",
+      "bytes": 19623,
+      "sha256": "d143843a94d31280eef638d4cce4725be22190ae9ecde49f7fecd479ee532bc1"
+    },
+    {
+      "path": "runs/claude-pilot/manifest.json",
+      "bytes": 415,
+      "sha256": "381a1d88b4ffad42298791d3c771a2c9511bd9b72a4bbd1e6bb11a4534d865f9"
+    },
+    {
+      "path": "runs/claude-pilot/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/claude-pilot/observations.ndjson",
+      "bytes": 18962,
+      "sha256": "0a00cdbf3a3cbb859ecf742d05dcdde54fe2f88d1e1cecdbac0b9010cd781bb3"
+    },
+    {
+      "path": "runs/claude-pilot/reasoning.ndjson",
+      "bytes": 21548,
+      "sha256": "cc8c6338f43eb1f563557da1d892123febff275b116d4b4443046ad1c90e0cbc"
+    },
+    {
+      "path": "runs/claude-pilot/results.json",
+      "bytes": 155,
+      "sha256": "108a4ccf20673bda5068885c92003102a82b74d6ce3efcb5e936b3876e23957b"
+    },
+    {
+      "path": "runs/claude-pilot/run_summary.json",
+      "bytes": 384,
+      "sha256": "cfa39ee4084f4bd634e9d0905ed19d54cc4e8124381faf0ea5baec122e49d133"
+    },
+    {
+      "path": "runs/claude-pilot/states.ndjson",
+      "bytes": 10080622,
+      "sha256": "ac364ae72313922eb0cefb54cdd3d92aadf3be7ba433730754d3f0d5ce23d875"
+    },
+    {
+      "path": "runs/compact-pilot-multi/commands.ndjson",
+      "bytes": 3055,
+      "sha256": "06fdc07db8558eab9d934e69d46e6b962298a549643745e23b96f7fb5aac3a41"
+    },
+    {
+      "path": "runs/compact-pilot-multi/host_events.ndjson",
+      "bytes": 21269,
+      "sha256": "cd3f3d8c911d2eb781359d229ddb1a101ac71bc6ff33daf2824b566ef6693048"
+    },
+    {
+      "path": "runs/compact-pilot-multi/manifest.json",
+      "bytes": 415,
+      "sha256": "684e480e907d1ca3ed99d6f120820afaf8519df99ea1701a07fb0a01aabb8eb2"
+    },
+    {
+      "path": "runs/compact-pilot-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/compact-pilot-multi/observations.ndjson",
+      "bytes": 20609,
+      "sha256": "128fe6d348deac384110ace821b492564556eaebb9dcea6d9256a08eb2d9aa97"
+    },
+    {
+      "path": "runs/compact-pilot-multi/reasoning.ndjson",
+      "bytes": 24976,
+      "sha256": "a96129f070e5a8985b760dba517c161c9647f84e145fad2f67ea038ae66f3423"
+    },
+    {
+      "path": "runs/compact-pilot-multi/results.json",
+      "bytes": 155,
+      "sha256": "f4730c955840e9f2a51b87e245d9eb51f1c78d654a3d73a063d1a8662425d076"
+    },
+    {
+      "path": "runs/compact-pilot-multi/run_summary.json",
+      "bytes": 384,
+      "sha256": "49c85feb83a71ddd57fe013d2b0a76931e61019cabf3612315d637e2b761446f"
+    },
+    {
+      "path": "runs/compact-pilot-multi/states.ndjson",
+      "bytes": 11366647,
+      "sha256": "3c0217024615443cc6542ae4648159e52e111c1289181fccf507295a5f437227"
+    },
+    {
+      "path": "runs/compact-pilot-single/commands.ndjson",
+      "bytes": 2833,
+      "sha256": "cc30f94a5cc657124fa42df51f8fd31c2f6fbd86d26f92d33a6b7880bcf0c82a"
+    },
+    {
+      "path": "runs/compact-pilot-single/host_events.ndjson",
+      "bytes": 21270,
+      "sha256": "b2ccd47902c0fc7fa8e92f58b81e71577163cd5baf33ae23aadfd766229e91fc"
+    },
+    {
+      "path": "runs/compact-pilot-single/manifest.json",
+      "bytes": 415,
+      "sha256": "597a09fa2dc8fc573e0c51b0a2d2195be7f8f55365f30b87a305cefd4a3b6e86"
+    },
+    {
+      "path": "runs/compact-pilot-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/compact-pilot-single/observations.ndjson",
+      "bytes": 20609,
+      "sha256": "03e9cac4305a908d461bc87a2365606d4a6e7abdc6f4c72ec1ba73ddff1e5cf3"
+    },
+    {
+      "path": "runs/compact-pilot-single/reasoning.ndjson",
+      "bytes": 23604,
+      "sha256": "11e82215aac15c882362c4cba46775b9578c2912a153045bb1e5c17ada4f95ec"
+    },
+    {
+      "path": "runs/compact-pilot-single/results.json",
+      "bytes": 156,
+      "sha256": "852a804c910f6ddba9199e3c7e0ec161561d9023fb7d3713d87850fa57db7c9c"
+    },
+    {
+      "path": "runs/compact-pilot-single/run_summary.json",
+      "bytes": 386,
+      "sha256": "3fe777e30e64601225f3ba390fa13a285c4fe1cf89c3d53e00185b32554bda44"
+    },
+    {
+      "path": "runs/compact-pilot-single/states.ndjson",
+      "bytes": 12008910,
+      "sha256": "75c63da3790ef40a851df583783f7e98708514f07f2a557d55757c9cb6be52dc"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-multi/commands.ndjson",
+      "bytes": 11950,
+      "sha256": "4580f83d8b420b3ee7c18982009ddd813e756fe2af8d191bf8147c84af6dc7da"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-multi/host_events.ndjson",
+      "bytes": 99359,
+      "sha256": "e92261858c67b18fe591df639db2e756e6ec4fd3bbdd6e0d6626be4e10b5d3fb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-multi/manifest.json",
+      "bytes": 464,
+      "sha256": "db5f95730d5e90a296e923b6c09fd463dd6e4eb5c0aa1147752816f4704b96af"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-multi/observations.ndjson",
+      "bytes": 97896,
+      "sha256": "c8d899c8198df4fc05f4d0ce9163b022a9f7b0e86371806623903fe9140bed19"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-multi/reasoning.ndjson",
+      "bytes": 109041,
+      "sha256": "db01a552e0e8d5cdfd79f5fef372989bf5959effecfa37d5d63cf999176e4527"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-multi/results.json",
+      "bytes": 158,
+      "sha256": "f3a51d5149a4d088dd5f7956470950f24e9aa97f414d260d1f73a880e1b63ffe"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "d570243f36a63d067609be9d75f2760a6cd1f828acae731a4d2a405e2326d530"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-multi/states.ndjson",
+      "bytes": 38202965,
+      "sha256": "7411b2f090c25039149c78ca979d103aacc1ef53283bc5ad8ceb2020abbe1ef3"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-single/commands.ndjson",
+      "bytes": 8986,
+      "sha256": "c83c659d235306b21f429ef9fd63599afba681913ffb48b7bc03e2c90d9fa68e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-single/host_events.ndjson",
+      "bytes": 99524,
+      "sha256": "6dece4955661a56e9e23b1409861f241365db407a320aa2436d2f3c95968b6b0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-single/manifest.json",
+      "bytes": 464,
+      "sha256": "4d29347fb84950adec037eed328f8e30706043695bdaeee260c772a76b650618"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-single/observations.ndjson",
+      "bytes": 98062,
+      "sha256": "d250de48caffb422d496a8ec8993626937e2a1e70be523dc2d1647cfd45bc8c8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-single/reasoning.ndjson",
+      "bytes": 87524,
+      "sha256": "9f207c39e4d68b3c7b7ee4d295562a61d89de8229bc749550870bca9cd63a1bc"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-single/results.json",
+      "bytes": 158,
+      "sha256": "a82da9d5c59e7b437311733b500b4bb0a33a87f5068c2aa99825d146d8ac91a3"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "21afe3c18c7f70e1e119ac7fa4e22fca8e2b65ae751acddfbd0f34110477984b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-000-single/states.ndjson",
+      "bytes": 39064447,
+      "sha256": "136c88c5e7b1a3a6edd8abed9434a38f438d82edafd5ea56f932745b96ce8ed0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-multi/commands.ndjson",
+      "bytes": 11228,
+      "sha256": "77f31077e2f461fe57b6df36bb3c9027cee16c9c8faec9dcadf1db7ce8e368c2"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-multi/host_events.ndjson",
+      "bytes": 91373,
+      "sha256": "2ab6af14d3aa723f6e271beafa7b2498697a2d7c7c83460bc2d2fdea9aaee8d3"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "c082496ba65171d9760c2efdd2801c30d64aa05b7169c4ef13303f2ae0cbdedd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-multi/observations.ndjson",
+      "bytes": 89909,
+      "sha256": "da9ceba44190f593d7afa7cda54e7bcc8ceba62d4fc2426a0c6cdac96d2e431c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-multi/reasoning.ndjson",
+      "bytes": 108348,
+      "sha256": "350ade750c5141cda27791b4b3c9ec82742b94c1a31507b3a22e3e120b6603db"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-multi/results.json",
+      "bytes": 158,
+      "sha256": "3c166d61ea913e43cfb2e42c32094eb443303ed69c6b97856ccc5e7cba61c726"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "93d92c47705d2a29686951a17aaa00308dfeed22437cd91ebed50ef6a8829bd4"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-multi/states.ndjson",
+      "bytes": 35749047,
+      "sha256": "f41025e86815e476e7c698b87c2fe57a709490ee76e7cc0a31a7e3aeb1fcd756"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-single/commands.ndjson",
+      "bytes": 9453,
+      "sha256": "bce467a23ab9d8c0671fe8bb155b9736d790f22b3395337f46448cc3b21f4956"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-single/host_events.ndjson",
+      "bytes": 98851,
+      "sha256": "d1b33bab9d4640022a4ad01800e41441a7c6a8be5b4dab83a0454103ca64cb4b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-single/manifest.json",
+      "bytes": 463,
+      "sha256": "2ee1c725aee12dd97a2bdbd9f5f875f7e5f5ae76060e97b2e32a64fd3cf4c0ad"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-single/observations.ndjson",
+      "bytes": 97389,
+      "sha256": "48c3cf26794aad735368b4f9bbf47e370404bc83afc4c9da5e250edd8b4ba858"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-single/reasoning.ndjson",
+      "bytes": 88075,
+      "sha256": "7a9ef524781f9a6a7901c89b9f45e1422695a6d9efe9f84b36c9b139782120cd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-single/results.json",
+      "bytes": 158,
+      "sha256": "e3d7fa1f1d6b9cfbac1496bb2d41e3a34f9955552112404310c48b4fb8700792"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "82df191d852f541413c6191fb45dc64953a08a5cf8ca865b5b9519d72b39354d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-001-single/states.ndjson",
+      "bytes": 38618546,
+      "sha256": "fa6d2e6b9a198f757f822effffcf51109c8f46a3739832582229253faac41b25"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-multi/commands.ndjson",
+      "bytes": 11987,
+      "sha256": "f37d1beb103c2918d1f64d5815407c47d247a9571386f3775965d1bf8382433a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-multi/host_events.ndjson",
+      "bytes": 97522,
+      "sha256": "71b15468c00cde9e4f01e86d300c0a92caf1bcf270e298e8c547361974b57730"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "b2a384238d27f6f8d49a7fdf5e65c0fa9ff7e0dc825105f9eaf7d036b7d48d23"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-multi/observations.ndjson",
+      "bytes": 96059,
+      "sha256": "9d54ea05cfb4078288b75af8678508a1636c17ad883a85836220506e85a4f46f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-multi/reasoning.ndjson",
+      "bytes": 109789,
+      "sha256": "82301b90ee8c3288f49cf17743d9e9bf1ccc3fd012b5c85f95920ccc04d2b402"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-multi/results.json",
+      "bytes": 158,
+      "sha256": "5b661051685656b66862dd0fb61a2840ecdb48f83aa57d27886787d501a7cff8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "9212d2b570d5dca7739feded9f665047fd3e2d6e0835d08417f476e51a9abddd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-multi/states.ndjson",
+      "bytes": 35703783,
+      "sha256": "104428e6974f34e38c93f15788b683b98d4087837fcdaab282e896cc940b8402"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-single/commands.ndjson",
+      "bytes": 9211,
+      "sha256": "767b4304cbf40ab0e9dcc71d3f0e170584b09a0bc5c8414a88147daf60b88f03"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-single/host_events.ndjson",
+      "bytes": 99471,
+      "sha256": "d43854aad79cbba30434462014be1d95d5bd0028bacf125637d95a6e668fd834"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-single/manifest.json",
+      "bytes": 463,
+      "sha256": "882864eaf43ed6e949d24c6ac4880bc2e6efcb89721f26b8842f097aeaf1d1fa"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-single/observations.ndjson",
+      "bytes": 98008,
+      "sha256": "7d6b9a19b1653b91e1e882f81cc06a1f5a4882734c770d316d86b21f022d4dd4"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-single/reasoning.ndjson",
+      "bytes": 90537,
+      "sha256": "22c2f281f8bcdbe5dc587e8756a2e717e3af3328b1f85e50d6aee2508d5e12ff"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-single/results.json",
+      "bytes": 159,
+      "sha256": "3b99378e68cc045ec26a1bb5d518bf1262c92a3373315a37a8aeeba07333b09a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-single/run_summary.json",
+      "bytes": 390,
+      "sha256": "ce3b54d370b6207be4ccd54191096aa404a36645aed558d02d07929b343dddde"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-002-single/states.ndjson",
+      "bytes": 39151098,
+      "sha256": "e177334a4906fa3e8c66e9fd2220da5df3e3590d47b1d10b417f68241fcb25a7"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-multi/commands.ndjson",
+      "bytes": 10629,
+      "sha256": "7adb215013a51091078e49410e405e2edb42a9237b6c26e2d0530ac1ab7b55aa"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-multi/host_events.ndjson",
+      "bytes": 97893,
+      "sha256": "30d73450244aea08658cf070c8878dcf0a7605c409e3e977d93b176b58f8b3b0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-multi/manifest.json",
+      "bytes": 462,
+      "sha256": "33f99169342c6947662f280fe5ba6c087cc228351107e2f04aec0a5216edcbf4"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-multi/observations.ndjson",
+      "bytes": 96430,
+      "sha256": "3ed153191710b284e7a7c2982b16abc96289d86981d39abf61d4b7e78ccfbb00"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-multi/reasoning.ndjson",
+      "bytes": 102921,
+      "sha256": "c22b46b18311e0ce98d85a817660352ef4d871a3088d7175300979d94f088914"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-multi/results.json",
+      "bytes": 158,
+      "sha256": "616c55d1f6a6dd839d1cec1a27f98661638a0bf49b47ee38a59136f081a615a8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "667b4e75b6a40be17a92e5c70ba197ecb66e5dd91808f12b9931f3cb189743ec"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-multi/states.ndjson",
+      "bytes": 35840949,
+      "sha256": "db118a7d2c0ced560c87c459031042b75e3d55875d4ac9a652cb6b5412c8c582"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-single/commands.ndjson",
+      "bytes": 8559,
+      "sha256": "11f43addf5f6c03a5d246d3a939918dce3805f0abbb26c51aac8cfe8acb3d271"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-single/host_events.ndjson",
+      "bytes": 99378,
+      "sha256": "a3696d971cd31a019977d64b5d684a6bbdca55634a40074ebf086598623b742a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-single/manifest.json",
+      "bytes": 462,
+      "sha256": "43adb5c129229b1a4f5c33b4637f2e982a7f6dc9f2cb81eceb2bef57013ced17"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-single/observations.ndjson",
+      "bytes": 97950,
+      "sha256": "4c30e3d856eb1d4c4dfcc924add53e30b14738e441685e17318e0434083efa75"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-single/reasoning.ndjson",
+      "bytes": 92996,
+      "sha256": "81447cb5e459a492dfd16a7175d7c9448b6fb7f31f3332f3f7a34dc512ab705f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-single/results.json",
+      "bytes": 156,
+      "sha256": "2b696cbc7f408596b5ddec328d0dfaa7b6ac7f25ac0ba5f150087f2d9003ea7e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-single/run_summary.json",
+      "bytes": 387,
+      "sha256": "83366dfceaaf6d95b400de70d3b7930f1b6af8f7eeff8c920bb2ec23c09373eb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-003-single/states.ndjson",
+      "bytes": 39057594,
+      "sha256": "b26f768ab260da5edc673fd781b713d0b5f4bfa5b39a057709bf06b1de222585"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-multi/commands.ndjson",
+      "bytes": 12491,
+      "sha256": "f07b06c164698085fd05d10845fc66481a798cbbbf25cfe158731bc003f3b987"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-multi/host_events.ndjson",
+      "bytes": 99745,
+      "sha256": "1456819128590a56ccb1cbe41e2c0c6b1b4fa6c8428c4a4b722467cabea130ba"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "df0215f4ec6989a8c70e75348ffabc1e004cc79143965f389bdd3f12b5f09175"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-multi/observations.ndjson",
+      "bytes": 98282,
+      "sha256": "0eb37baca588e826cd58a727265c43335b9ec6ab5c2fb7d5cdf38dc8d4aa5a69"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-multi/reasoning.ndjson",
+      "bytes": 115739,
+      "sha256": "e2a0121200dabdde251f4489c1a75344f5c9efb8e9732b875dab06e4f9eb571e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-multi/results.json",
+      "bytes": 158,
+      "sha256": "1c66022b68cc352c5ff1bc74cd3aa60981ea3064cea7780d079095a31f5bf324"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "886122ea1d356045be6ef85af6bdd6af6beb8f3ec5fc022c3802b08adeae18dd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-multi/states.ndjson",
+      "bytes": 38595153,
+      "sha256": "ba8ce20283d405167173297275f95e12675c541244af3d73e2f74589baf991b3"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-single/commands.ndjson",
+      "bytes": 9864,
+      "sha256": "3fac767e4a7a221b7ec867d15e765c26201c0e1521afb859d2982ebeda538670"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-single/host_events.ndjson",
+      "bytes": 99657,
+      "sha256": "52484da8c82f0b471546ffa4eff347cd1ff9baa8f8a975dd2005f62c748358b1"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-single/manifest.json",
+      "bytes": 463,
+      "sha256": "c68d9ee389cec524f1826c4507948d4fef35dcd65b2a7b122c6db3df879e2c98"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-single/observations.ndjson",
+      "bytes": 98195,
+      "sha256": "ac56a0a8908ecda8b9b812fe731f609c673aefbfa6570a1b4eb8e02de494bb2a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-single/reasoning.ndjson",
+      "bytes": 91672,
+      "sha256": "354bbdbefce3ac204c70aead2bb84e85f8ffd4f21dc6fc0106227c2129133470"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-single/results.json",
+      "bytes": 158,
+      "sha256": "e1fba0540522d9ee39d8f57f112b9af99fd5212c0b6e5879237347c9d0d27a66"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "1da62ad2b1a74e99071b8bb3ac7a2ce6f3c54b43912e57ff029275a988f8348f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-004-single/states.ndjson",
+      "bytes": 39166304,
+      "sha256": "58d04b69964476b2654e45981cd97644f85cd13586b308800b55d70a0a0a7ac1"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-multi/commands.ndjson",
+      "bytes": 12381,
+      "sha256": "a4015de28e303ad878f6908f7742ee194691b4cbce0172df448bb808bc68bd15"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-multi/host_events.ndjson",
+      "bytes": 99443,
+      "sha256": "5cf7ab0d142ab055691cb9c6cbfa8e2369efe711076a62891066ccb837bcd690"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-multi/manifest.json",
+      "bytes": 462,
+      "sha256": "c5052c9ebe3795c042c0b011c3b2d3a308a49fd0604aeab27a7528578fdc7f72"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-multi/observations.ndjson",
+      "bytes": 97979,
+      "sha256": "48c66009549574f1bf5aa329b56702d6accf123197c33eb75da04e15d4a43e49"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-multi/reasoning.ndjson",
+      "bytes": 114187,
+      "sha256": "22f18b4d19acc11a9d4d505fa042ac108cb4390431fd45166d06bf92f40b5a85"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-multi/results.json",
+      "bytes": 158,
+      "sha256": "5a3d894fe11807ccec39aca5e95edb2cf780b6b9e08ff132dbd127fff5b5c890"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "87deceff041d6e033210cadbab2d0e935a38be76801acfae56e11c00ab2d2042"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-multi/states.ndjson",
+      "bytes": 38139938,
+      "sha256": "10618ed381934310bf7c315c2cb97e1659c8cb64317aecf6da0666d628d5952d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-single/commands.ndjson",
+      "bytes": 10146,
+      "sha256": "9ef9a22e8af8a3806f9c8f945468db2999994147fcb762cc839b2c724196e7b2"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-single/host_events.ndjson",
+      "bytes": 99350,
+      "sha256": "d1016ed6dadf3b5f93a3d63d8c308ec8d8190181b0c5f3982f4146c4dc33b0ce"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-single/manifest.json",
+      "bytes": 462,
+      "sha256": "d51ecbe7bff6e4195f3f03879a4f2fd8410f714dace249f52945c2d0f8f30e83"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-single/observations.ndjson",
+      "bytes": 97888,
+      "sha256": "3de62f2828bcfe3d69cab151a08ed59384c6ac4f10492b0fb194f8196287d729"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-single/reasoning.ndjson",
+      "bytes": 93337,
+      "sha256": "39ef97f3125e8442fdcf4a345f167657d239b68ab20f29696f3031118adbb9fd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-single/results.json",
+      "bytes": 158,
+      "sha256": "6e13c1244f3a9af002011686fbf8dfb1df92ae12c64af48be965fa448301def4"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-single/run_summary.json",
+      "bytes": 388,
+      "sha256": "4a5863bba665e8f6b9617b32d54feb18e263315b9be5f8b747ef7295621b3235"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-005-single/states.ndjson",
+      "bytes": 38892627,
+      "sha256": "1f94386c2f58de455eed29287f3d562bfc30e04e257729cf7bd29fd6a873aa44"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-multi/commands.ndjson",
+      "bytes": 11249,
+      "sha256": "d3518ad9ecb037f9087aeca4ef120740a94a467d0afe743166e3169a6b7b6e1c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-multi/host_events.ndjson",
+      "bytes": 99153,
+      "sha256": "b7da79e88419476a9a702e1a41bc87716caf0b7ceff7e29c437f527a8e2bf4f7"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-multi/manifest.json",
+      "bytes": 464,
+      "sha256": "7199346165790b24ed4729e4cc019f80befe5d18542d2522015bb7390b37967d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-multi/observations.ndjson",
+      "bytes": 97690,
+      "sha256": "0a0237cb9cf44fb479cb65b78ed4039f964bfa6eabed24191a100f00a3572ded"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-multi/reasoning.ndjson",
+      "bytes": 109231,
+      "sha256": "cef13342ae3ebedf2e68ca8e8e80069b807fde46b8cf72c3567ec1159d5464ed"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-multi/results.json",
+      "bytes": 158,
+      "sha256": "b00fd633f7a87065c390dc693426e0a23d8ce0adeffea2e70eb10a6859d97f81"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "e411494a9140d385addd5d280a4b1dd2013d5904fca63097db0828f20ccdccbd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-multi/states.ndjson",
+      "bytes": 38173453,
+      "sha256": "5a516d92b1e7135b756a8f1289009e94280f7eb9af1e84ff2b77d2e1e61e4135"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-single/commands.ndjson",
+      "bytes": 8431,
+      "sha256": "2b327736e2eccd0cc0b257194916b2bcfa65605327a15a521e8e17b208eb772e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-single/host_events.ndjson",
+      "bytes": 99003,
+      "sha256": "362dff93e03d41bb3565287f3eb9da8fbbe6f7e14dc79c7a5f4f65d91347ec5f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-single/manifest.json",
+      "bytes": 464,
+      "sha256": "40fce19db150762a356ef57b3f011c46d90fb330be4af278a3f041305a13470c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-single/observations.ndjson",
+      "bytes": 97573,
+      "sha256": "0c831c1513fbade15973967feedc32d42afae19924461d2e9b6d8f543f37ec55"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-single/reasoning.ndjson",
+      "bytes": 88763,
+      "sha256": "5451128ab85c59076fd2df4990fc044752d15faa39ad59d653f60681d73241b0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-single/results.json",
+      "bytes": 158,
+      "sha256": "157c1f33310d7990e684804c61b13bff1950ecf04780415572a461e924a0f9e3"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "ff4db995cf8d449b0340fb0496306b53330c539a0b88eb2ff421936701bdf502"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-006-single/states.ndjson",
+      "bytes": 38872703,
+      "sha256": "3fb4b9747e95f5994d3dc0d773828dd0e041e975e779ecd5228ea535df26d27b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-multi/commands.ndjson",
+      "bytes": 11352,
+      "sha256": "7598c0e4b4b8dd92202ed304b458b0679829a4f78d81c77e8ad6e6581a61a53d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-multi/host_events.ndjson",
+      "bytes": 91095,
+      "sha256": "58d559d638d548ef4df8b2fd84d3bfe8810ce00ea08bb1cc52cf83c29e50062a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "7074543087caadd4b37ab48e47a578224adfb3fe43142317ee42d1aa29b57f03"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-multi/observations.ndjson",
+      "bytes": 89632,
+      "sha256": "3371c557990aaaffe6ad7131a2f2f16c2cb16a1e3f625d3cd9a4235ec9627f21"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-multi/reasoning.ndjson",
+      "bytes": 114771,
+      "sha256": "c0dfb6001384e2b27a5af45b59944b8369ede8263a36e34500dd30ec570221c8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-multi/results.json",
+      "bytes": 158,
+      "sha256": "26af6b6a838925ab14f0f9861160ee27759afa593950c217407578b692fad416"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "040827d0e8c2a5ac7a9f1e1d2b76b073f66f22266bf6604928161d1d712c6ef0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-multi/states.ndjson",
+      "bytes": 34932425,
+      "sha256": "f95098c9c16513f1ec43026fee3a42a825ae3d91828d243c604070d45530184d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-single/commands.ndjson",
+      "bytes": 9824,
+      "sha256": "b0e0c30f3ceec1d9baff36d32fb4ebc0a3ef4215108066284c2878a7cba1669d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-single/host_events.ndjson",
+      "bytes": 98646,
+      "sha256": "2e212af380860e099003e035150a26985311146509792fb5d2f9883f6ced4c52"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-single/manifest.json",
+      "bytes": 463,
+      "sha256": "6e99c55cedcf4c52f0fa82de1c67f90c2a61dceb05ebc8395034ad4055b2f884"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-single/observations.ndjson",
+      "bytes": 97184,
+      "sha256": "4480eb51518ae831f639bd0aaaece8ab4eb2d2be1c43298a5befaf8877b8a0be"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-single/reasoning.ndjson",
+      "bytes": 91396,
+      "sha256": "5f8ab194e097ca8fc199ce083740cb4e04e90cb453be65ec1e4553aa7eda6d5e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-single/results.json",
+      "bytes": 158,
+      "sha256": "a22465f814fcfb095a4d480b2884c3cafc1a57813f77c8af3b77bec918e60d84"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "3b867996beb562d3bdbcbec9782cec0a0581a4325dc2c983b90b34458c2e040a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-007-single/states.ndjson",
+      "bytes": 38515296,
+      "sha256": "1fdbe93c7641d787cfd1caa5ca46335a8044d995560743e3bfbb7a57a45b87e7"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-multi/commands.ndjson",
+      "bytes": 11654,
+      "sha256": "4b7fe1bd4400bb7ee806258d9a83ab061f12659f62d836aced63678f8fb33aca"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-multi/host_events.ndjson",
+      "bytes": 99038,
+      "sha256": "5cbef87272e782c51c75c350cff4fc5cf84721c61dd7c1b46bdc6cf4ec62f31b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "ff0319e770b6266c242ac78552c84a35998bb9dd006e12afe0b0d3688eb26fff"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-multi/observations.ndjson",
+      "bytes": 97576,
+      "sha256": "7ed3387fe0ff482423a62796aa974afca1d520ea8cce01402b64c407d674a491"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-multi/reasoning.ndjson",
+      "bytes": 110037,
+      "sha256": "397f454e125feb6026b3ba0a4e21c2e67afc968258b9a414c1b5ac34e7c29cf6"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-multi/results.json",
+      "bytes": 156,
+      "sha256": "d1247bff7b6405f220fca90aea001435e06c15cb45ff5027228648d451932224"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-multi/run_summary.json",
+      "bytes": 386,
+      "sha256": "d8f62ae6ad459892c57b7f8206a20ccde73391355f5dd3950692d76eecd796ba"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-multi/states.ndjson",
+      "bytes": 38083727,
+      "sha256": "c06448d7483dece896b2ec2e983fa064e18a0988a5730509f3cd4a62afc305db"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-single/commands.ndjson",
+      "bytes": 9472,
+      "sha256": "e6692c8adda2b9b67a71e6ed39af08efdf789fc1c43cc5b60aae9a891c46b8a8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-single/host_events.ndjson",
+      "bytes": 99091,
+      "sha256": "b665b9314d2875ad1caf3ceb2258db6754d418e65ed45159e0205c72b5e0ed5e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-single/manifest.json",
+      "bytes": 463,
+      "sha256": "3d15fa12e9febb4b879da3cce456ad68e4114bebcb26ffa9b1e314247299e075"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-single/observations.ndjson",
+      "bytes": 97631,
+      "sha256": "540668d2bc78b20c58a4d58107eb630fe3b674f4e5151efe3dd72ea2571a1435"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-single/reasoning.ndjson",
+      "bytes": 91849,
+      "sha256": "62e7b6086e2eaa97a4dc0190e4f4d7aaa4da32559b726a7f1c1d5cac23ee51d6"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-single/results.json",
+      "bytes": 156,
+      "sha256": "8f1cbca46c4bf2c03cc29da94ebc735b7911d432afc2c3653f6e57a82e4f5f05"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-single/run_summary.json",
+      "bytes": 387,
+      "sha256": "4fa5a01e14653c034dae220db55c5c74a0d2de0518398f21661cc8b88e6d4609"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-008-single/states.ndjson",
+      "bytes": 38813540,
+      "sha256": "d8d319390163d193d0c57ed47dd2e015d457b90f19c60291d2513811cc281fdf"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-multi/commands.ndjson",
+      "bytes": 10923,
+      "sha256": "37fd4b84c6656713015f26a87bac151d485afef220878e924fdb90bda1d5360d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-multi/host_events.ndjson",
+      "bytes": 97432,
+      "sha256": "e3b34d5ef4c1938a93a76451c0ee98d70cbd10b4acbbe77b2f99f9d974046d21"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-multi/manifest.json",
+      "bytes": 462,
+      "sha256": "624da6ff72546cb72445aadeb52d4b3b50626ea6f34b740b225269c70b38d9a0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-multi/observations.ndjson",
+      "bytes": 95969,
+      "sha256": "0fdab54cdf1e059f8591f5888bc091406a08c31da37e816123c08403bc9b81e8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-multi/reasoning.ndjson",
+      "bytes": 105189,
+      "sha256": "ae5bc3bf84b69d670139fdcefd090f2bccffe82bf2dc0ce2d16384246f575227"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-multi/results.json",
+      "bytes": 158,
+      "sha256": "335cbc204f9a2175d4ace0f6c7300e3a90f61dfa049a1a49fd589c6481e28bd0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "f6833ff85715e0163990296439744cec85d682c3b2539dcd80a077d0ba42cbf0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-multi/states.ndjson",
+      "bytes": 35582026,
+      "sha256": "f2ca7d5de5a38722a282a79a22f60d99f3e3f8c05a4d7b7e6c73d83649510943"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-single/commands.ndjson",
+      "bytes": 9829,
+      "sha256": "9cf0e1c89ea0e73b6d6add23c93d08a69e706036b820ef788b2e6487e234cadd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-single/host_events.ndjson",
+      "bytes": 98985,
+      "sha256": "13eaf2ed1b519c32318fe1689a89d2bd1e89c8b46e701b9dc215125eb6f7f439"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-single/manifest.json",
+      "bytes": 462,
+      "sha256": "7d373a360f698d9ba7e3b1de0b3c9357ff1e6de846ae064e764e0b4d1c6bc5fc"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-single/observations.ndjson",
+      "bytes": 97525,
+      "sha256": "d27fa13b7beeab6db1e698f946af876281845809903a83b6e3a41900411fbaed"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-single/reasoning.ndjson",
+      "bytes": 92347,
+      "sha256": "6d20e0a3d47eb8e39aec2fd8afce2be4da054c726d3d6854d1edafa0e3185a3c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-single/results.json",
+      "bytes": 156,
+      "sha256": "f44e208c3f4261ca23225dfae42dfd9808473bbb0300c614f33364f2b66d5976"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-single/run_summary.json",
+      "bytes": 387,
+      "sha256": "6d8395d176db536a531c4421b0f987cc288aef43bce516e0a4d46eaf9d1ffafc"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-009-single/states.ndjson",
+      "bytes": 38811515,
+      "sha256": "fba20eff9f72565f1bd5340b82b816506501ab36885159507f4ce89b0e89d6fd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-multi/commands.ndjson",
+      "bytes": 11917,
+      "sha256": "b1029355221316d41db2293215bf7857db70e1d7d6c96a132db97eae2f030f2e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-multi/host_events.ndjson",
+      "bytes": 99739,
+      "sha256": "98c48679510d517232266332c711590b003b4d2f7a968d60ae764b12d7b7af5e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "4b51aa1faa2049d8ddd211cce47bdf1527739c239c51733bd55d0156ad6acd9a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-multi/observations.ndjson",
+      "bytes": 98275,
+      "sha256": "30463001819d42fa118171d4f156978b2e49c2019761d3d2d384608ba313a075"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-multi/reasoning.ndjson",
+      "bytes": 117239,
+      "sha256": "5104f475e9a4394610628e54ea96bd98d1495dfbd25f6a6c422208279221be47"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-multi/results.json",
+      "bytes": 158,
+      "sha256": "d2b8a360a757c8725791a3ec370c2cba6fa41e6f2d7ba1df98062b3e589ce01b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "cbddede10cd68fa7622808e031301dd8e2c884c6e3057bccc15b10dbbec08b02"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-multi/states.ndjson",
+      "bytes": 35815246,
+      "sha256": "f29cb4d738f3d4a6d1baa8f32c113d65ef4d48a80cb5795288585942440b7256"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-single/commands.ndjson",
+      "bytes": 9948,
+      "sha256": "6af1b8d6fbf8dad0b114cd73b6918a2459f0b1bab6c57a8050a68145e6ccf29b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-single/host_events.ndjson",
+      "bytes": 99152,
+      "sha256": "4e1f20ab4f9e0d3ec5fb7c18b965bc44176e6b2d1b9ed04f73d36a7590c14d90"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-single/manifest.json",
+      "bytes": 463,
+      "sha256": "9815d26ebce8a061254e7064e086cbdf2068120b731731faa8a02fdb4b40baf3"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-single/observations.ndjson",
+      "bytes": 97690,
+      "sha256": "76b844f36e74cea4dab2bc33106c1a4240e41560ea56cc7ab1b1bb6b1fd60d97"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-single/reasoning.ndjson",
+      "bytes": 89579,
+      "sha256": "a2dd99c009c8f78a92c8e881347fa5cf8af2c889618c632aa2ade7117fa39938"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-single/results.json",
+      "bytes": 158,
+      "sha256": "c0788297967f323a304c3f4e8a520c28bb62c532b5b29570da084c4f5afa3b9c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "e0a1a8a0cafcdedaf50b211dc1a01e352234710b9e3c0df22dab5c767b0002bf"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-010-single/states.ndjson",
+      "bytes": 38906665,
+      "sha256": "32c88b0a44dd78afad9db73b3df242d0bc74180556e55a8529b1dde5362d705a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-multi/commands.ndjson",
+      "bytes": 11637,
+      "sha256": "516789861b0ea442ef2388e6bec2539a787d0ed65873ab47add6ac9af563dbe9"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-multi/host_events.ndjson",
+      "bytes": 91345,
+      "sha256": "23c4c060ea4b58a7bde0da2980eec2de9712bec829bd98d12da50827a4e079a9"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-multi/manifest.json",
+      "bytes": 462,
+      "sha256": "c69fd574ce92697d7639b84fe5581530f12b860b462f953fbcdf1447f9c078e0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-multi/observations.ndjson",
+      "bytes": 89882,
+      "sha256": "8eab66c664edfb1aca2bed441db3e64c99dfc8f56d175fdec1a283c3e45f6bc8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-multi/reasoning.ndjson",
+      "bytes": 108229,
+      "sha256": "5b83cd3ec3e6ee17df8d7708752bc76311d95c31110e3525c351dfe894cd1bef"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-multi/results.json",
+      "bytes": 158,
+      "sha256": "7b0f772f5cce6845744a559edd37c5b655b452b0a09e46397523eb7d75baf73a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-multi/run_summary.json",
+      "bytes": 386,
+      "sha256": "7a5ded02a7869dcf46c42a6e178fc5cf28e1c47b33841fd981366dedbaab07e8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-multi/states.ndjson",
+      "bytes": 35876848,
+      "sha256": "201ba39222978978cc4928eeeebc7c783b9a437f1835acf49a990b978151f5c9"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-single/commands.ndjson",
+      "bytes": 9641,
+      "sha256": "9bbe58e0b6b72b53cc13ff7781d931f527eea78df1c6282eca70531713154659"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-single/host_events.ndjson",
+      "bytes": 98895,
+      "sha256": "308422bbc02877d15d1d015955c5c847a84ff8f877944fc7adc888671c4be5b4"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-single/manifest.json",
+      "bytes": 462,
+      "sha256": "2ba9e2174721bfa72dc5765745d0b7da3e95fce61ce6d3c0bf6fcda438fe30eb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-single/observations.ndjson",
+      "bytes": 97433,
+      "sha256": "2f49d1f459191314fa301f94124b1880fd237f06d66ea323ac389b572ad9ae0f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-single/reasoning.ndjson",
+      "bytes": 90208,
+      "sha256": "701965557f9af770cc8b278ac2a1aaf1ead39f99c352a64e405edfb5c4b035aa"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-single/results.json",
+      "bytes": 158,
+      "sha256": "0d6b32ef74d7fc7ad1c1ab0dc619af304396567815f05048153d892aae83242a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "8df63a2706dc3e12b785e47267e8029549328ace87470a71a131bfe71f741292"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-011-single/states.ndjson",
+      "bytes": 38628798,
+      "sha256": "a1f30b2fff365b98af21a5c7bec1ec566a79f28d6733209295aeacdf26b24202"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-multi/commands.ndjson",
+      "bytes": 12130,
+      "sha256": "f4fdc98e7ad5acd129b6a77150d2a24c236dc519b588e3d8176ac18a457cab81"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-multi/host_events.ndjson",
+      "bytes": 99062,
+      "sha256": "82068ee748206af38dc284902a98bd50f855f837790d790943911bc501ceaa28"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-multi/manifest.json",
+      "bytes": 464,
+      "sha256": "9c22ed746cee4facac182dd2ab8b6b4421820a5c487ea75105f3440b535585d3"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-multi/observations.ndjson",
+      "bytes": 97599,
+      "sha256": "1266d16bc50c94287a880417888c242d08fa4f88ee2d8aa8ad4b9c064164e51c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-multi/reasoning.ndjson",
+      "bytes": 112899,
+      "sha256": "9f8d7170269154f94819e29ca733180f65fa54d2bf34fc43a185cb46099492b4"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-multi/results.json",
+      "bytes": 158,
+      "sha256": "f8a9138f61065f4cda6ad568c4777a5e02d10dd619da1df877f2a042b082824a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "2681ccd372115a840c8071a63aa7d54da1a729052ba842de381ca9ad131570d7"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-multi/states.ndjson",
+      "bytes": 37976222,
+      "sha256": "24a6eee3889806dffba709433a026b362eec74822c3666c0c27804b32e7fb1dc"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-single/commands.ndjson",
+      "bytes": 10305,
+      "sha256": "cf6840416cfa1bd7734d1124a0184e9d579fb3a5865781e0dc765f04924204fb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-single/host_events.ndjson",
+      "bytes": 98961,
+      "sha256": "d0a7cf5718cc3df0b4025b2f4b9dbaf022a44d8f28f113ad89eb256008698db0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-single/manifest.json",
+      "bytes": 464,
+      "sha256": "699ab1a5e25eb385f3ee48f517bc97a78ddaa199a704900ef52d0b176ade79ad"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-single/observations.ndjson",
+      "bytes": 97499,
+      "sha256": "4d9abe23279c194eb736bccd02b655aa5a46a01191c2e885992867606e638756"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-single/reasoning.ndjson",
+      "bytes": 90464,
+      "sha256": "9e9b81cd116360466eca601117d49ec6d0516bb8536da03a6172608ad66caab5"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-single/results.json",
+      "bytes": 158,
+      "sha256": "b91f2c9dc7ca4296f21c39446fcd2c57734b8a813e525ec72a2168b25f07ce42"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "71e11056f2caf09c01b0d82208cf7ca66cc00187a395c2cb7b366033fe12de83"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-012-single/states.ndjson",
+      "bytes": 38471120,
+      "sha256": "55be6434b53382939f8d3c8c78916dbd5789e075010a99217fc18fcdc8cca696"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-multi/commands.ndjson",
+      "bytes": 12256,
+      "sha256": "98268064cfebac67f1cc4489f5a9bd59026cbc0aed087aaee1e4e224a7c9a585"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-multi/host_events.ndjson",
+      "bytes": 90953,
+      "sha256": "6ed713dd2cfc097cdaf66997cb8604ad4a38bed1d5489dd415afc8e7cbc2c22f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "6b455823fc8c34734945cdd1096f5bec9e6312b72506e30fab08059a1b082f28"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-multi/observations.ndjson",
+      "bytes": 89489,
+      "sha256": "ebe207bb8950471d49b5be4451ce50af2311179732e88c6c8e3cb1c761cb3c00"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-multi/reasoning.ndjson",
+      "bytes": 114176,
+      "sha256": "b716316bf5d1c23d982fd05f09a81eb2cffad90984cdc90133396a5478ad2d83"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-multi/results.json",
+      "bytes": 158,
+      "sha256": "7ec8acefb3a6d8ce42d92a5fb020e196cf1ff4f258b6a15c3a54dc256d5c9a9f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "a160b6bc2db903f1366f493c2cc1b36683874d4f9f19f4987dc034a66ac9bbf3"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-multi/states.ndjson",
+      "bytes": 35507703,
+      "sha256": "03246b98f14cf6ba5d05baedebea8b83a3bdc7a5f0d42f5894fa8af394a3743a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-single/commands.ndjson",
+      "bytes": 9936,
+      "sha256": "e1b392a08711b93799bd5dc7d3b942c08503622eae8e2dd9d2f5e7e5fafdb921"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-single/host_events.ndjson",
+      "bytes": 99283,
+      "sha256": "402e0b5ab4f09777832b758a3740dec9a15044a756925b494adfbc28d4fa1acc"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-single/manifest.json",
+      "bytes": 463,
+      "sha256": "0e9d0718b170435e4484991dd1b966e2d51168cec3d2613fce9290cb6eeccc58"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-single/observations.ndjson",
+      "bytes": 97821,
+      "sha256": "bb33e33ec2bbfadc765ab18c18493ba481fba99019999817057cbb6cce9c9741"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-single/reasoning.ndjson",
+      "bytes": 91256,
+      "sha256": "cbd3d8f6e131320e7d7155066e72faf859437ff6d4f55897a436f4c9e8fb3a3e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-single/results.json",
+      "bytes": 158,
+      "sha256": "0b01deb6a174de378bd552f624efaf6d6cebc2baedf96b831d5cad31d46b3bb7"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-single/run_summary.json",
+      "bytes": 388,
+      "sha256": "36572149eb5db61d934e930d5edc81c563c8c2676a663ad8a2570e649e2c3a4c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-013-single/states.ndjson",
+      "bytes": 37621113,
+      "sha256": "139e8031a2d656fbba93b2ed867783953ed4db872de840b3442a24e23fb821f5"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-multi/commands.ndjson",
+      "bytes": 11405,
+      "sha256": "535c6839afd99716f7613f35c78bf68da96d660049132962dd1617efc89ec038"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-multi/host_events.ndjson",
+      "bytes": 98685,
+      "sha256": "38ac4864322f37644fb5788ff896144cd8ec08bba3d29e3d4183e155289b8378"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "fd40e69869068bda371f06dd05fe220980b81f5e4f1dcfa0a619b260e0ff5443"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-multi/observations.ndjson",
+      "bytes": 97224,
+      "sha256": "4af8a82139e5a4a58cdaaeea895ce18ec00c59f2da3c34a0c48ae18f60a86bce"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-multi/reasoning.ndjson",
+      "bytes": 112299,
+      "sha256": "c08c8a793089aae3b1d0232a2cd8d4d17aa04bf0a52817a31d1ed07db2f8ac67"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-multi/results.json",
+      "bytes": 156,
+      "sha256": "6cd9a273032f703488e2bbe39a6e6924e159a872348808260637b6d97b7c202a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-multi/run_summary.json",
+      "bytes": 386,
+      "sha256": "63ce9b66513259d0b5b26cb1fe608ff211f537efe199f7a1d283a832e3f5dada"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-multi/states.ndjson",
+      "bytes": 38148198,
+      "sha256": "238daf52ee0928703bf524686912246c2fd98007fea8fb541d3752ff5c6cd53f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-single/commands.ndjson",
+      "bytes": 10245,
+      "sha256": "96027e2fd2b6f0fcdf9ac457acdc4d8702c7665d402d04409f04abfb9b2867b2"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-single/host_events.ndjson",
+      "bytes": 98934,
+      "sha256": "a1c3c8cbc94cebdaff64fda3249d2f20654ab591b509b10222e07e74a80e607d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-single/manifest.json",
+      "bytes": 463,
+      "sha256": "16d2499b3cd7054db1cbfe39d87b47259c868b1a0fae26d99ddc33369b6c13ef"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-single/observations.ndjson",
+      "bytes": 97474,
+      "sha256": "8767c59210937bade06d5b2a3bb734714eaa7923cde05e8f3e0b96029986dc1a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-single/reasoning.ndjson",
+      "bytes": 93977,
+      "sha256": "ec921acd88da78c2fa022bb7fa92f0ed41c79be99b7f45a58bae26f7ecd4ee94"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-single/results.json",
+      "bytes": 156,
+      "sha256": "b7ccd9c32af97522116e5f6cc1cdbc179d6322e3cc2fc2a86b09956b706de9af"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-single/run_summary.json",
+      "bytes": 387,
+      "sha256": "fcc0f34f4b0b43fe886b2083ffdf8669a483e95cb9333bf0b5dc33a0135f46ae"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-014-single/states.ndjson",
+      "bytes": 38759645,
+      "sha256": "e3db95036fee46ca97e62d2e2505cc45aba708db3f5a520486b6f3f089ca14b7"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-multi/commands.ndjson",
+      "bytes": 12439,
+      "sha256": "444ec3b15df77f3eb89dc9a5c31d836e934c9e5185039673c4e6afba0f5db479"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-multi/host_events.ndjson",
+      "bytes": 98365,
+      "sha256": "3fcc6edcd79012d02ac4a91488fdb84b767fc4af0a92239eba6058bfc2f48362"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-multi/manifest.json",
+      "bytes": 462,
+      "sha256": "b70e0a71dab96c90cb1c89705fac2d1453003e42115ec5900138a45a591ef0e1"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-multi/observations.ndjson",
+      "bytes": 96904,
+      "sha256": "bb141e4525feb2b82f4d55958c31d54714cde6663aa86f1f27af28e7024ba05c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-multi/reasoning.ndjson",
+      "bytes": 114701,
+      "sha256": "4121cad879647423c14bd6dd5bf0a124a43e2961855323f4d9975da0c06ee63f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-multi/results.json",
+      "bytes": 156,
+      "sha256": "69c0feec4fabb0db0c569603be01fdf590c011b2358d85bab9b1967b2492f0c6"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-multi/run_summary.json",
+      "bytes": 386,
+      "sha256": "e48739c9ca57699fa8db53c7ea8431f461c5014ea9834f10c0899cc3cf3e58cd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-multi/states.ndjson",
+      "bytes": 37582006,
+      "sha256": "7f155d8811e1f865d63af2f22c4b47b74ab04250390e422e9a5cb2fdcb5e0fcb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-single/commands.ndjson",
+      "bytes": 10193,
+      "sha256": "75a9cde30046f2af6201733cdd12566e0239f05fc55ecdc28e857d4b2914d204"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-single/host_events.ndjson",
+      "bytes": 98979,
+      "sha256": "543fdb882c096888b1307b4579220120f424620082287a11e50569c491d4de78"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-single/manifest.json",
+      "bytes": 462,
+      "sha256": "2f8b049c8ff9b362cae0ee9f43ecf4273ed15d0885ef6d9f8aa6d80650c508c8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-single/observations.ndjson",
+      "bytes": 97519,
+      "sha256": "5a45f896129d43f5556fa34b081207cc7d23b3655ceeb4ad604693ac054d3105"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-single/reasoning.ndjson",
+      "bytes": 93698,
+      "sha256": "97237799b5333ba5ebd0f7c58abbe366b13931574672ff2c60325df8e3db5ddd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-single/results.json",
+      "bytes": 156,
+      "sha256": "c415f0086f69546296430efd445d05545553ad1f0dbb383a0ab58d1ed23d62c0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-single/run_summary.json",
+      "bytes": 387,
+      "sha256": "a50e3061ed549096329eb116f14ef3c74ad0edacad85df3dad98c4af8fa45be7"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-015-single/states.ndjson",
+      "bytes": 38856570,
+      "sha256": "4847d3d71d8369b80b8a0d108269f484fb9b119bc8b0d924aea7c8ca7bb81759"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-multi/commands.ndjson",
+      "bytes": 11793,
+      "sha256": "47ba9d3500d65d1431740b9a8fdbcf23936580e5a797de590d4ac80202b91f6a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-multi/host_events.ndjson",
+      "bytes": 99051,
+      "sha256": "948424f06fd769045533576e0d5adc35c56c095e9dcf3569017c9ff0c3fefd1e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "3cada442e361f02f7c3485e28186cfba91391e80d28eef592ce84fe12e4bf597"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-multi/observations.ndjson",
+      "bytes": 97588,
+      "sha256": "8054c27d2f5a9bdfd8cbe0a874e3d5511660346bbe01e689303d61488ab3356b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-multi/reasoning.ndjson",
+      "bytes": 113724,
+      "sha256": "709600d9e07e774c9e7161c00aa853e75c0ed339929a7ae27c2e205810754c2d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-multi/results.json",
+      "bytes": 158,
+      "sha256": "c007b4987d1e062dc8d5e780a5c5b1af0fc7d155c44568a373b7b71b3a13404b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "2ca46e00ef901e89d2ab6e72940997966d36a642454a5f8f2d7d7815ff8594f8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-multi/states.ndjson",
+      "bytes": 38057839,
+      "sha256": "a83a83900fbf87bc8a0f22da9eccd302087c7faa3e82e2ef528274d9d55e3de4"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-single/commands.ndjson",
+      "bytes": 10098,
+      "sha256": "09bb18c61775cac0f8f576ed672d4592fd7287d3e46898a12f7a59c8e00861a0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-single/host_events.ndjson",
+      "bytes": 99084,
+      "sha256": "721d1d8f9f0a8fe269ffe75e175bb5f160680e376209fd283c6268ac703b13fd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-single/manifest.json",
+      "bytes": 463,
+      "sha256": "57186f12e5fceed591b3c4d5e8db1fd96e9558c74e0c55f355caabff3db187fb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-single/observations.ndjson",
+      "bytes": 97622,
+      "sha256": "c3a5f77dfa89b95971ea307dcca8206f431b089be18a49eff9e038aac56af30a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-single/reasoning.ndjson",
+      "bytes": 90510,
+      "sha256": "59f3c38d6f9549b9df311759222f53d2966fa7d28455aa12a4e78565de0ae007"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-single/results.json",
+      "bytes": 158,
+      "sha256": "8a4db13dcbf8d47ec38592be21d3f09cfdfb5c8d54ef72c9fab8d39fb54596c6"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "dbc4eec96acc62d6dcd60dfce2605a018a68700a935f7232f8779274c3515844"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-016-single/states.ndjson",
+      "bytes": 38558809,
+      "sha256": "23cd23bcb53429263a48a59084617d845f0a3a2771e2783f5c5ff1974651572e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-multi/commands.ndjson",
+      "bytes": 11707,
+      "sha256": "a545f020395459d78e25b1eeebdb327ae403f5e7e59ea8f3d5d4f8ba4a93c9b0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-multi/host_events.ndjson",
+      "bytes": 91815,
+      "sha256": "cbe22315a2b253c4b2e7bcccc68a6ff338fd88b2e3e2b812a74bd36d83833622"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-multi/manifest.json",
+      "bytes": 462,
+      "sha256": "f83903668d310489e0b284ed0e8924a817bb26071c4b6a64548442c87f160740"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-multi/observations.ndjson",
+      "bytes": 90352,
+      "sha256": "555d4864561e87231aefd5421cd61ee13007cf3da58c6a06ca25df5889a9549a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-multi/reasoning.ndjson",
+      "bytes": 110387,
+      "sha256": "8fbb1c9182b3549f493c532a1333ab3737792bcb2d14bd1ef3f904c315b1da56"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-multi/results.json",
+      "bytes": 158,
+      "sha256": "4790a43a20be8e70a30f6af78ca8e0f0ada9c766a357d3a09f22dab1d2fae3be"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-multi/run_summary.json",
+      "bytes": 387,
+      "sha256": "45c46de5eb72699acbe78ce9f1ae2b6da66955f6ebbe1f04d51426ebc347ca3e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-multi/states.ndjson",
+      "bytes": 35806546,
+      "sha256": "4381103713ab3070f80a82552cfe1ce4d7f4439d5cd4234498dc8332dfbf32e8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-single/commands.ndjson",
+      "bytes": 9885,
+      "sha256": "462606d0481d9675bfb90e9e6dfe59e9223a12b79ca955d0f7604d804a0d8835"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-single/host_events.ndjson",
+      "bytes": 98877,
+      "sha256": "443629decb24abf5d489ef9f2bae14739bc1c41d0f9e796fe0f8835e9ac54734"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-single/manifest.json",
+      "bytes": 462,
+      "sha256": "e03f64f76e08842ff75dd140e3c338e8ee4960f25af326fcd8e4ff601b793573"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-single/observations.ndjson",
+      "bytes": 97415,
+      "sha256": "71ec168a3c94c6307fc652ac9f4bb918d114558fb43fa7822fba5c77711b9313"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-single/reasoning.ndjson",
+      "bytes": 92246,
+      "sha256": "fd00ee34020c808243a27d46f5756aaefb6f1e23364962e5dcccb99324d23aed"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-single/results.json",
+      "bytes": 158,
+      "sha256": "cdc50266d7645fa78c464de4970459d6de509a45728587f4002b80eb3af76560"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-single/run_summary.json",
+      "bytes": 388,
+      "sha256": "0dd0b6e183b4758cf7a243a02ff4f35690737ab94c45cc9d085a9b6e39479f7c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-017-single/states.ndjson",
+      "bytes": 38470781,
+      "sha256": "95e831a927c644d6ca35c276f9a51b9fdbc81ede44aa76109f39df711d108200"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-multi/commands.ndjson",
+      "bytes": 11891,
+      "sha256": "1e2e335c5dd4e7a200193ab1c5e3597114b9da136128a6ea65f047ae185b5cb0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-multi/host_events.ndjson",
+      "bytes": 99033,
+      "sha256": "0c8921976bccae43dbf64abf83aad45e128ce0a0e09d618ab7335432da4bfcec"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-multi/manifest.json",
+      "bytes": 464,
+      "sha256": "0fa88f22d3ed30846c25cb6acf95b6c0565a6b4e882fae050b14cfae05837844"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-multi/observations.ndjson",
+      "bytes": 97570,
+      "sha256": "b1d9c5f53900d5c34b951719746e9b2dfb0573911fe5b544f3c286383f1a18b6"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-multi/reasoning.ndjson",
+      "bytes": 110003,
+      "sha256": "dc406345f89cc6bbaab18405091b96cdaf70ed0d9cc32a3f7ba6cc9111fb8a1b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-multi/results.json",
+      "bytes": 158,
+      "sha256": "54e8bae35e33123740ba0cb199a77ba3b57587e93e4bf72fc692d21596ebca4a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "e4106b715ad9dd426251295c5beed6604431dba1fcb973114085d3518c69a8ea"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-multi/states.ndjson",
+      "bytes": 38377982,
+      "sha256": "23433685ea330f9733c894c51a1d707375f166f69270afd624587c54cb6563db"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-single/commands.ndjson",
+      "bytes": 10364,
+      "sha256": "97f3459c98d3d40d470abc7cee6c6656b93fb9f953ad6dadaddfce74441f9a19"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-single/host_events.ndjson",
+      "bytes": 98987,
+      "sha256": "4bd5c42ea60ce2a3b898cf214af63a73bd489adc2ccb3b0757a3c390c7ca7dd8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-single/manifest.json",
+      "bytes": 464,
+      "sha256": "361a0a572094ecc0e14c04fda4052fb7ad6379dc1de7841f0851e943106d843f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-single/observations.ndjson",
+      "bytes": 97525,
+      "sha256": "55e1b9bfcd6014a5009385d8dd879d38ce653a21c987632775a26c4019e635ab"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-single/reasoning.ndjson",
+      "bytes": 93906,
+      "sha256": "169df6f226ebf3646bf8a2d77f51730195960ac809d5de44ca52026453613867"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-single/results.json",
+      "bytes": 158,
+      "sha256": "e7895b35d47b6aeb9a550951327e80478e56919cdb308172acc31bb27aca5f61"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "976b8cd958d052c6542c9101ce8959621dcbd3a3c8444b4bd15a5b50355842cf"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-018-single/states.ndjson",
+      "bytes": 38912824,
+      "sha256": "be18f0b24872384f22c6c271bfc9046d259031cf0a5191babe0e349385f1f0eb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-multi/commands.ndjson",
+      "bytes": 11648,
+      "sha256": "bce9c0daa580432afd970f09a7b75899879d2dec5e78f7ede8c6d81b464a5650"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-multi/host_events.ndjson",
+      "bytes": 93857,
+      "sha256": "edc97e5bd1ccbd361509a07017cc6cd96aceb7fb458bf127044d59c4e18171fd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "9e842ebbb5887b9a92ef19a35a707a8be24e1f2defeb97d134050bf03fb66269"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-multi/observations.ndjson",
+      "bytes": 92394,
+      "sha256": "e823f7ee9ac64c28d4b4f67c1ccc79a3292cbe5a1130ebd3027a581c9f6e06f2"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-multi/reasoning.ndjson",
+      "bytes": 123246,
+      "sha256": "bf7dee78de93b9893500c66364afab89011c21b9ed1f393958007e2d127d8cbc"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-multi/results.json",
+      "bytes": 158,
+      "sha256": "aeb1583f9b6395400fe04b96afd3e1271f1851a06a60312ca91e3c51fdf9e901"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-multi/run_summary.json",
+      "bytes": 387,
+      "sha256": "5d32821ffd4a598520bf93dc75b2cc52fc094b6754954c2db4ed1b6256790892"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-multi/states.ndjson",
+      "bytes": 34831343,
+      "sha256": "e00585b2fa3018891683322970eaeb45e12016302114d71cb8841b972ce69252"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-single/commands.ndjson",
+      "bytes": 9739,
+      "sha256": "9f2086f5570f64fb50ea086a49a919d42ba4d6100e14de777f24bacf7a640a6e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-single/host_events.ndjson",
+      "bytes": 92497,
+      "sha256": "f12df1cd8413daeeb0443d1d4434ff83658cdcfb61c3ca64c02e4781803708ad"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-single/manifest.json",
+      "bytes": 463,
+      "sha256": "80615fa159ef01ce03b161b121df9d7731d6edbacefc98c3e7ca134dafe4c7a5"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-single/observations.ndjson",
+      "bytes": 91035,
+      "sha256": "f502bfa571946f7fbb3d77c30c57a7b8cee7422847e4ffc77b6d58b7c8add606"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-single/reasoning.ndjson",
+      "bytes": 89741,
+      "sha256": "af906229fe16617708bc85a67143f48d1ad94d84ae5163caf6ce9f9dbcdca63c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-single/results.json",
+      "bytes": 158,
+      "sha256": "bb690038971338718f8c5d2865afa66f32ad7f7890ac1dd060d9471f2f03291a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-single/run_summary.json",
+      "bytes": 388,
+      "sha256": "76e10ba8eaa4048c972017eb4aef70e1631e75a8d0ff7cdc9da4191e634a581f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-019-single/states.ndjson",
+      "bytes": 36043686,
+      "sha256": "2cc5258c7ba5b17821c6240d591e4b0359d434c0cc7f2cf943d5fcd38f267ed0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-multi/commands.ndjson",
+      "bytes": 10266,
+      "sha256": "48b3d867b320ae7adf9c7c17f0e5dab556b0ea455c75df07e0c6a784e011e58c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-multi/host_events.ndjson",
+      "bytes": 97227,
+      "sha256": "12dd7636ca395cb4f9f09e56689f735279f11dd4e0b57abd3be248189b69f1c0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "846c3bb9c1a84c40dd25d010ea6cc1856d676d3abac0f8ae1054f7301257d19f"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-multi/observations.ndjson",
+      "bytes": 95764,
+      "sha256": "487a530debaaba48348a0e3cc0a3176d01a584da51877b15424346c7b7d51766"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-multi/reasoning.ndjson",
+      "bytes": 103211,
+      "sha256": "a570e42d6fcf76eeb408a14264aa2c026959e9c7d98a34030b036046a603f3d1"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-multi/results.json",
+      "bytes": 158,
+      "sha256": "38137512acb4f34789c50df7032810c2dae8156981209c439f78d3797b75fc85"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "70cbbeeaa20b9a867160fba89b2ecda7dacdd2376cc72f584b74647e9b6cd757"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-multi/states.ndjson",
+      "bytes": 35505265,
+      "sha256": "c68d7efb64b42e276fa21171038f9102f26c756a9659cbf504a45012c6f19963"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-single/commands.ndjson",
+      "bytes": 9740,
+      "sha256": "34d615444c837bf51769891912aa1ec30d2cb1aba909106dbc2b564f7ccda82a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-single/host_events.ndjson",
+      "bytes": 98850,
+      "sha256": "195ac4817283e259bb663c8f1aee712073494b39e40e4ac681c8bf60fc7fb8fd"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-single/manifest.json",
+      "bytes": 463,
+      "sha256": "6adc88e79a30daa8063735e7f72ea95477652741d00db582a6638b8f48cafebb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-single/observations.ndjson",
+      "bytes": 97390,
+      "sha256": "435cd789f00f32eb683da7eb820c0bfac0c80f997cc6ab339351035cf50bee58"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-single/reasoning.ndjson",
+      "bytes": 91227,
+      "sha256": "9d1767a4796d9d49fc8ad82e00a27e5643181cdf3adf4a6da2c851b409efb113"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-single/results.json",
+      "bytes": 156,
+      "sha256": "1da300a9e8320095597806969921c96a40ccafb0665766e2a2c3199e175d2ec2"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-single/run_summary.json",
+      "bytes": 386,
+      "sha256": "b8fde8aaec1274bf8f3d187621cd0093a644675ba45418b09173f0d216f04140"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-020-single/states.ndjson",
+      "bytes": 38996038,
+      "sha256": "fe30f5b8e6878b2b9038517035cc8cef86ce68917411645eaa4271d65c68a242"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-multi/commands.ndjson",
+      "bytes": 11884,
+      "sha256": "639ad6c1d650991e696ddeb4008ec3bc0ecdf7b10b902a48a4a2a760a6fab044"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-multi/host_events.ndjson",
+      "bytes": 97406,
+      "sha256": "81f9c35e19ae703319caf6c253322554b10068029a8f873eeb968f9434a59b9b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-multi/manifest.json",
+      "bytes": 462,
+      "sha256": "05c1465463f1618a6355f78eca3df4d4386f4c987dd1d6df0f6d5c79891bd68d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-multi/observations.ndjson",
+      "bytes": 95942,
+      "sha256": "cee3dfca7ea48e8b4b77c3fb48b23c7ab94cca5d445dceba85de35cb971627b0"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-multi/reasoning.ndjson",
+      "bytes": 108757,
+      "sha256": "7d78c90c8651d1783191722b59743e9193eb56d066d4deab51b88691e036d065"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-multi/results.json",
+      "bytes": 158,
+      "sha256": "f6d2e667df3d46a71e84e4c885cbbc216a19ee252939af7227fa2b140c332e3a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "b61f4222e2d0fadfd118d51037d7afac32218f645ab468e339b4ef29e40ce52d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-multi/states.ndjson",
+      "bytes": 35530116,
+      "sha256": "1712c1a3294fd7989c5e090c666839e2c19ae11629cf2dacf86ebe79f44fb79b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-single/commands.ndjson",
+      "bytes": 9218,
+      "sha256": "ffe4c2cd3f8c84ce403c2515381789057cc7d77f458faff6a43d03e40a4e389e"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-single/host_events.ndjson",
+      "bytes": 99005,
+      "sha256": "52fc24b326945706ea92404d7685bc20cef01679637bfb2d629daef0a16b6330"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-single/manifest.json",
+      "bytes": 462,
+      "sha256": "c82be23c23a54eb7a3b96c9c0a6259a66fea1518c8df67d0d0f828652e8a2833"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-single/observations.ndjson",
+      "bytes": 97545,
+      "sha256": "918c5d278f3b4c76af7bf5612e5945a300d6923a2c0674f9ac34b54526af9fb8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-single/reasoning.ndjson",
+      "bytes": 91669,
+      "sha256": "993e661df2322446dc8657dc597ec38836185cbcd05c68b05dfba94512b3364a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-single/results.json",
+      "bytes": 156,
+      "sha256": "d43fa898149fed0652475fc0559f66ccbb47767087d605a8119b0c535c2df41d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-single/run_summary.json",
+      "bytes": 387,
+      "sha256": "bb9aa4c8007fa9ba17a60db60bf0292679f88454dbf0dbd4f43e1a2c8b9bfa17"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-021-single/states.ndjson",
+      "bytes": 39104557,
+      "sha256": "4ffebe5d130b20cc218ef72b3645a322807fd1ec57baa93aade6d18735cb26ed"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-multi/commands.ndjson",
+      "bytes": 11276,
+      "sha256": "7f625b571902d95be14b67e195b9d0bc46bfcafe2db8d633abbff97781398134"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-multi/host_events.ndjson",
+      "bytes": 98947,
+      "sha256": "7f4559bd1fed7ba404523b714ac041745bb7a47b298febb80b43471e0753fbd2"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-multi/manifest.json",
+      "bytes": 463,
+      "sha256": "b6076546e0fb5e18273e481e94ea1f15524e0103b4ab5fa8dc96accd99d42bd8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-multi/observations.ndjson",
+      "bytes": 97484,
+      "sha256": "84f7cc25cdb70ddd1b77b8fd572f9cd8f3ec02b28bd02f7d2c113e40b1c1ef81"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-multi/reasoning.ndjson",
+      "bytes": 111766,
+      "sha256": "b6f0db94e7f5840ef8fe91f2a667f875b213aeb8723f65c064f3954fe8178f37"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-multi/results.json",
+      "bytes": 158,
+      "sha256": "ce9e36a7ba2daaf67578267b4018abfaef79ce626934d5e6cbadfa4ad0bd3c7a"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "43a77bf0e8c983a08e524c39be73438369ab6c1acf9baf77698151e0878a637c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-multi/states.ndjson",
+      "bytes": 38207552,
+      "sha256": "2b307431add42c3270604ea56a40fe7a7bb03aabafdc60de760284e4527e27eb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-single/commands.ndjson",
+      "bytes": 9985,
+      "sha256": "48eb189c5fbdcdd9e2124af4fcc0733f4c4043e30df6ce7915287299b2d526d7"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-single/host_events.ndjson",
+      "bytes": 99089,
+      "sha256": "4f50a650885207d35d37d797c72da321b6427008837fe687dde60343d7ff2fad"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-single/manifest.json",
+      "bytes": 463,
+      "sha256": "53a616446e7f435385276e1d0cbe6607739c954aaafc7e7b84cd31903f4ed57b"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-single/observations.ndjson",
+      "bytes": 97627,
+      "sha256": "b974db4060bf275b7707de73dab1a0d31ef187bebf8ed944a2fd79d01cbefbe6"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-single/reasoning.ndjson",
+      "bytes": 90817,
+      "sha256": "c95e80237d4fb2ff566317712786da9ffb74c32152c5a4db3d0c69748629772c"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-single/results.json",
+      "bytes": 158,
+      "sha256": "e5265c1b3f66e853d78b8228869bb40ae5ccd9a0e599b9cc494be942a135e122"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-single/run_summary.json",
+      "bytes": 389,
+      "sha256": "f3bc18bae97c7936fd5bd2e2e73c2336ae8aa12b035411dec82ae9cecfdbb5cc"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-022-single/states.ndjson",
+      "bytes": 38930998,
+      "sha256": "9bbe19d0c419fb6c3a5b0fcc49aa19bd2141cecd117388457836299de8dc31a5"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-multi/commands.ndjson",
+      "bytes": 12345,
+      "sha256": "4e512313a1e6ed08d5155e71e305c3e6193d5234c78a698a3a6e5a1d02217031"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-multi/host_events.ndjson",
+      "bytes": 91187,
+      "sha256": "2e8e478e9bbb01fe7fc0390a2bf0c348279dbfd79a05e94a06fe87d8f09ae2ff"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-multi/manifest.json",
+      "bytes": 462,
+      "sha256": "bd721b75bb8c5d0bce605554369d070def9487c9b3556e956effba8389d82be8"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-multi/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-multi/observations.ndjson",
+      "bytes": 89723,
+      "sha256": "356898e3900360331d6c6b5af732d66f5e56353b130e832a10257f30b20c3d16"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-multi/reasoning.ndjson",
+      "bytes": 111149,
+      "sha256": "1826b28a2cdeb05927775656011dbfdd1b6380979748c4796f904c78bbb3c6ac"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-multi/results.json",
+      "bytes": 158,
+      "sha256": "7f5f877697858379330213e78fa163551dfd4914694eefb48dc6040be8c8a3cb"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-multi/run_summary.json",
+      "bytes": 388,
+      "sha256": "2fd0e9d7ad178752cf0f7fdc0998205a309357a6539d9c3d11ad0ff14ceed199"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-multi/states.ndjson",
+      "bytes": 35345369,
+      "sha256": "a43bb68ca0831749c148d97a175b13a06ccd38fe2293cbd0044b068874039606"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-single/commands.ndjson",
+      "bytes": 9693,
+      "sha256": "7e99b68f3bcf52b30d5c607f9ac65da124cc64548b720893051e9bf8068e2071"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-single/host_events.ndjson",
+      "bytes": 98725,
+      "sha256": "62ff5edbb60f991298478c9f4f11aa73d196e98402c963f57908d2a85d2554f6"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-single/manifest.json",
+      "bytes": 462,
+      "sha256": "046ab1ad6ad68fa57f8a5e3196c561d99f9ff4e84d662d843d89cf03f17f6b09"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-single/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-single/observations.ndjson",
+      "bytes": 97263,
+      "sha256": "7f65acd2d82ef6246a8611591eeee7054076524eb3bdb4183730f269c76204cf"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-single/reasoning.ndjson",
+      "bytes": 90747,
+      "sha256": "810b79cc484da3f68fbd11a26d80fe8daf94c1d880669b347458f8fbab0ab41d"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-single/results.json",
+      "bytes": 158,
+      "sha256": "3e031ad995dc455bff482772f64257a92575f87ba883df4bc96a781b597b9d63"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-single/run_summary.json",
+      "bytes": 387,
+      "sha256": "9df437788a64b6ea41a976e98a338e6da5ae0b39d41d1be3d0b4a1a8c9b342be"
+    },
+    {
+      "path": "runs/heldout-claude/scenario-023-single/states.ndjson",
+      "bytes": 38572134,
+      "sha256": "bf04019f8593daaf364133afa379d42bc1eb59aedbc8ce57786cf07f061d24fe"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "ca86bd8813c05b86cd1e9a0e354e7ea89636b477eb3b6548127f988ab0fd1143"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-frequency/host_events.ndjson",
+      "bytes": 92290,
+      "sha256": "0091562a6a226bf22602ab6ac0267df8c5120d62d256121a61b84f1156477f92"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-frequency/manifest.json",
+      "bytes": 465,
+      "sha256": "0e90935f94de2733bf46e628652a91dcac54d5007a728a2a7ae36b146418c342"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-frequency/observations.ndjson",
+      "bytes": 90259,
+      "sha256": "f698849d61e50aeff593bb26dbed604f403a4938ebb3aeaadfdf535ee1028b8e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-frequency/reasoning.ndjson",
+      "bytes": 7958,
+      "sha256": "2f9143b9c359b8564d229b00bbbf9ef53482bdc2a8ce976288dbda28c0483eb2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-frequency/results.json",
+      "bytes": 161,
+      "sha256": "e11d9e67c0b678c093a2de3ba8e29a16c8f54af86bc213413e01187ad2ebaa90"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-frequency/run_summary.json",
+      "bytes": 395,
+      "sha256": "fb09cb810b07a8cdabb7dae6d949eba0a81c0d26d81011e2c768d39b83f6c9d6"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-frequency/states.ndjson",
+      "bytes": 31620227,
+      "sha256": "024b89b4d38e93cbe30ff749e2a888533c740f9acc5066ea020188327b9990d4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "3c54662f72e25fe5c91eca9c74d6e0c3fb58b8465e2d9bc6613b5b017cd35e07"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-mock/host_events.ndjson",
+      "bytes": 100094,
+      "sha256": "3068b29bd42ad05b25baaa8466b46f95c772d28988ac5beb5b47d5e3b8cee54c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-mock/manifest.json",
+      "bytes": 465,
+      "sha256": "2a759ab40dbb53599c4c18e974847d8f06a931f5d10e63ebdfed0e07a10307ef"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-mock/observations.ndjson",
+      "bytes": 98066,
+      "sha256": "3118ffe216661b7a9aa9122d7d3259ac9b66323ffc9b1c336c481ab312812716"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-mock/reasoning.ndjson",
+      "bytes": 148511,
+      "sha256": "57ae094dcfe5ba121c1d5a51587d936296299ba90a1aca83a42938ec6e86bef5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-mock/results.json",
+      "bytes": 158,
+      "sha256": "01832994aab138ae7551bd25c28c91adf94d10951582a602c11d22c99c4805ff"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "e84f55942c97ec6b57f2d256d0a01ab054602b83786c6937c24df222b051024d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-000-mock/states.ndjson",
+      "bytes": 39245815,
+      "sha256": "9312b91d03035f3461c7bed0d7bf8c5653b47cd3e6a559694e6700f33550b0d2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "c46d44349b3c924e032bc3b3644ed482dd69f3007749c6fb5092e6b24fa97288"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-frequency/host_events.ndjson",
+      "bytes": 92326,
+      "sha256": "cea59d94da09ca90086bba00c6703de570d6dc5c4013e6dcea4d579f6cf3d987"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "199e4eba6832c878e10f1d3acd8d02eaa91eef672143a404ae18470bf47a919b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-frequency/observations.ndjson",
+      "bytes": 90295,
+      "sha256": "642c45d1560d09685552a6aa2448daf4bafba56926f063cd7ea5218f8c1eb678"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-frequency/reasoning.ndjson",
+      "bytes": 7956,
+      "sha256": "66b1da23bc1d96e310f67e20c5c42354d690dbd02831acb27fbfb3848aeaddcf"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-frequency/results.json",
+      "bytes": 161,
+      "sha256": "d18c2fbf19a0934c2327ea85a1649b2d9f6a5cd6f1323f5b085f88fd3ab5d835"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-frequency/run_summary.json",
+      "bytes": 395,
+      "sha256": "eb04241a1c638c7de8849c541301fdb848459061159f18aecced2215cfd0e8f1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-frequency/states.ndjson",
+      "bytes": 31620227,
+      "sha256": "c8380889dd8c5fa7578b1318525cd48d450490a0e45a632b54670e263b69c244"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "952b89ebae15bcb1f8dd6b47ff14c6af720c0866106d1541e466fb8900b782e0"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-mock/host_events.ndjson",
+      "bytes": 99458,
+      "sha256": "d00ece6f63b956befaca63722ec90daad879d8e7ba39ac0857f1bcf89d87dd00"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "03dc9bc152685d08d6f9258dae5582c98b3e1f19fce4c4ace4422ecb5168b672"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-mock/observations.ndjson",
+      "bytes": 97430,
+      "sha256": "2b28946853497bce89a7b6b7d67ee76eab0724828e11172b1dc7925d89363a13"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-mock/reasoning.ndjson",
+      "bytes": 146764,
+      "sha256": "b83d1257fc9ffe4e29c88799da26f250055a0eabf34106b02503fad5086f57d2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-mock/results.json",
+      "bytes": 158,
+      "sha256": "387b28fcb18b347af2b6582bc644af680f9083a8ea4b288eec9b4d37fb95077c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "f1e76c64cd2a0fc47017d6d6cedc2938a26c5bd9cda948b40e2b8fde833a05e5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-001-mock/states.ndjson",
+      "bytes": 39097673,
+      "sha256": "977cf6e9aca9f57afc52ba4ee426b5bdbc2f48e724bf0ffff9f3f6823fbeb3fa"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-frequency/commands.ndjson",
+      "bytes": 6717,
+      "sha256": "94e63dc0705f7809d9dac7a6abaa9c4bf53153b21408f2f6a3e896f07ca11cbe"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-frequency/host_events.ndjson",
+      "bytes": 95791,
+      "sha256": "c02dfd6aacba35f5bb1bd8f1bb4357ed3b53bf3f9187d05493adf13de7453ea1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "c74edf2c43d05330036ed35b2881c661aaeed827f68217e1d3ff94cadb8eca0b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-frequency/observations.ndjson",
+      "bytes": 93763,
+      "sha256": "5c1ecd5f9becf97188bee6ffd92d75933850d116ff1185c7323e7cc61fedc55d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-frequency/reasoning.ndjson",
+      "bytes": 9595,
+      "sha256": "4e9484073ee9e12bdb07c21698dd9223839438379730cbafca27ca310663b7f3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-frequency/results.json",
+      "bytes": 158,
+      "sha256": "3aa17ff06960bd543cfe04315de9830d82dc8b021004c2bf2ed8005ba3461766"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "0e91efcdd35c5205bb5bd9ae921017e541c406415b3384ddcec9b66fdde5bed9"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-frequency/states.ndjson",
+      "bytes": 32764093,
+      "sha256": "92409224f596acbdd483b4a2350d478198fa82fa194467b1a1e00fb65a5c8def"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "fbdbe65ab398151cc5a473a18e788e012814c26a0539a03466874539c6cc1dfe"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-mock/host_events.ndjson",
+      "bytes": 100067,
+      "sha256": "2c604567664b245e55eed60ad665ba94db2e4b53ec0590565947130346ec0e22"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "f5acb894f60da6fd4164e062ea71848ecf4d39cb4f6f08bfb49992e853107ad2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-mock/observations.ndjson",
+      "bytes": 98042,
+      "sha256": "93ccc6a447a6bcdd75ea93761510512427a37f03729629818e3d5a39676f7ecd"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-mock/reasoning.ndjson",
+      "bytes": 147766,
+      "sha256": "23f18ca24397de556ce578fe378e5927777a179e459ffe60ea9f642f34cc33bb"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-mock/results.json",
+      "bytes": 155,
+      "sha256": "7404a1988ec88e6ba3a1eabfb428f28cfc2598356c16fa4b5fb8bb884224df45"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-mock/run_summary.json",
+      "bytes": 384,
+      "sha256": "d5c6417b73db4b6da8146ea34918305fa9653eb7e5be5b538bcdac825ad65f41"
+    },
+    {
+      "path": "runs/heldout-final/scenario-002-mock/states.ndjson",
+      "bytes": 39254312,
+      "sha256": "9be889ed1420bcfbb91643f5b61d85eabcb7e1e41cd43fc8a8e5b11b399424b5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-frequency/commands.ndjson",
+      "bytes": 6720,
+      "sha256": "744ec4f4fc92fd811f6156e95701981ae3558066de0f9baef3ae00abdc10a975"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-frequency/host_events.ndjson",
+      "bytes": 96493,
+      "sha256": "dce0565e10fa2c014374aa275dc2252aa1ed67cdb36c68e31b50ce109d7a9440"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-frequency/manifest.json",
+      "bytes": 463,
+      "sha256": "5fbdfe6dc224994960dc2347c7c49b0ed6d637e668262e727653bfd4dc9084d3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-frequency/observations.ndjson",
+      "bytes": 94465,
+      "sha256": "15215a7b28a6b34ef568374008340f33a00c46a21feca22401f18fe612cf307c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-frequency/reasoning.ndjson",
+      "bytes": 9596,
+      "sha256": "98cfb362b27cdcb4c9ef9719b56df02109b5dd5b77619e2e6b140b7acda2c5f9"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-frequency/results.json",
+      "bytes": 158,
+      "sha256": "f221e3645f8134b2452227d9cf30f0b65e60e63f94c72853db190d0c174791c2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "83037ab4993a34a17b3550777879e8c4661d5566cd4a56f2abe66ca17047d954"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-frequency/states.ndjson",
+      "bytes": 33002476,
+      "sha256": "41a89fd8238aedccc27109ea2245afcacd8b0390837b79957500b1286b7cba94"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "f2b2b70faca6b9c54130376be07182605c2d88111509c47c7d36214f6ae938ce"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-mock/host_events.ndjson",
+      "bytes": 100023,
+      "sha256": "4a7e98a3616c0968918605e418f138ccef707d1b18f1792c5eac99f08e741b7f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-mock/manifest.json",
+      "bytes": 463,
+      "sha256": "10ff585287efec55e400e3640b577c12b44bd28799ebc92451713fdbf724b3df"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-mock/observations.ndjson",
+      "bytes": 97998,
+      "sha256": "379e60bf7964e8630880c9e68ac579b674480ef8ca67a21fec5b150dccf23644"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-mock/reasoning.ndjson",
+      "bytes": 148286,
+      "sha256": "10a9f79452cc193a2b94e2d3664d39753f01ef917f02614bf0d55125fffbe590"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-mock/results.json",
+      "bytes": 155,
+      "sha256": "d5e1e8bafbce62e70855d64ba56ad5743d9470f13f3bcf93dfd61e60fcc94e77"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-mock/run_summary.json",
+      "bytes": 384,
+      "sha256": "e796462e9576eeea5fcbd423141a809b58ba4df65204c949f2a96c72f12257e0"
+    },
+    {
+      "path": "runs/heldout-final/scenario-003-mock/states.ndjson",
+      "bytes": 39290542,
+      "sha256": "21fbe806e20dd5704d63e6c7c56da061e22c256029f57215307ceb481eb9a193"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "8048809f4467501916a173c49990ea40db2cb0496ddb5cbc7e404de7b350fe52"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-frequency/host_events.ndjson",
+      "bytes": 92287,
+      "sha256": "c591fbe5e8844b03c7f83f636f99ade8cf9aeed28f30b8938a71014eec261a50"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "f6611e22556da086f807a21a4cc8908e37a21965c305c99772fa5d5808656e57"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-frequency/observations.ndjson",
+      "bytes": 90259,
+      "sha256": "085dc400cc396703fab57cebeb2062356c32007991fbb0ae36015a93efb72f8d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-frequency/reasoning.ndjson",
+      "bytes": 7955,
+      "sha256": "0c5a7aac261164abc57219240fc2daf002af99c20e0161b3bc2e19e0cbc0ff1c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-frequency/results.json",
+      "bytes": 158,
+      "sha256": "a824332dee3693888fc60d29cf1353fad350733a3236e43d1bbdc562e8b0a11a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "785dc9b7bb87b922fd3aab1d84e3391d1b20b8aa7e6daf5281f2a79ad6b8182c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-frequency/states.ndjson",
+      "bytes": 31624707,
+      "sha256": "f5d5a00458b98fc32aa3e36ca61d5a41e3c8ecc961113c9bab9987745e8a143b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-mock/commands.ndjson",
+      "bytes": 6223,
+      "sha256": "9375c7c47d99c5fce0b6fd5dc8a85d37a763200406c3317c37a6c5f949c4d01b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-mock/host_events.ndjson",
+      "bytes": 100252,
+      "sha256": "7159cd595a3460908b0703a71913172d80664ee3c120f1cda2bb935be2caa44b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "79fecc3bf7870dcce6e4b6a693efb7fedb21d8ca8a1efb02b755111da6e52f7c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-mock/observations.ndjson",
+      "bytes": 98224,
+      "sha256": "7c837a06b8927ef8290b15e8610ae6831001092da496b459a12ce36230e227c3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-mock/reasoning.ndjson",
+      "bytes": 148445,
+      "sha256": "20a114eb04403fedd99d5db98368fc2c39f584c8537fe775e9c4549633eff563"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-mock/results.json",
+      "bytes": 158,
+      "sha256": "f5d3fdcdd5d3d19297acf1698493f2b3cc0d11f4a081c1ac8225d9e29628ac01"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "1e6bfdb42b6f87f4b9691171ff1d7ede1277fd3b8fb5d6bcf13e89e105a94884"
+    },
+    {
+      "path": "runs/heldout-final/scenario-004-mock/states.ndjson",
+      "bytes": 39253653,
+      "sha256": "7d542cf51683c44c5f9ebc28eca5ba396155368a6937fe2da6d118e2b4a9daa5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-frequency/commands.ndjson",
+      "bytes": 5725,
+      "sha256": "a8b4d48a44fbb65adf48e5aef5af40acd0199208e1a95dc0d14368e71614c800"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-frequency/host_events.ndjson",
+      "bytes": 89791,
+      "sha256": "ac905887a8d4278ab1da7a4a184e6bf72f2e7ef85ed78ea2c56d254b6a2564f7"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-frequency/manifest.json",
+      "bytes": 463,
+      "sha256": "a67b76132e063074c4cb05beb14f5c0b3e238925e642b8139b15583884ddc2ef"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-frequency/observations.ndjson",
+      "bytes": 87763,
+      "sha256": "e56ae120e10f5b752cdb29dd1fd9fb2d69b76cad7e3fde34312bb1ee62998b68"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-frequency/reasoning.ndjson",
+      "bytes": 8598,
+      "sha256": "c5b0957aa5891078dff4eb82fea7c5db0432a3834ace826af699836b8257c89c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-frequency/results.json",
+      "bytes": 158,
+      "sha256": "c39990c194d7ae15dbda9cb7c8f74cf40c4c7fb47fc856fe4250e780ff00f7a5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "4ffea0d7e67169b3feaa18547f8e7cd78e5b91898d6401fdedad91c0f9c4034f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-frequency/states.ndjson",
+      "bytes": 30938157,
+      "sha256": "25e0f3aa7e4abbb67ee5d589adc379a08c573dda03f87aab822dc298c0810a60"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-mock/commands.ndjson",
+      "bytes": 6223,
+      "sha256": "5d363281799fc1f3faf231ceee5c5899f77c8361d761bbb8d5560a58c0d2b81d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-mock/host_events.ndjson",
+      "bytes": 99911,
+      "sha256": "42c2f1074f8fb81d73dbd9fa7ca1b4d63a8d968a42cc1ade4aa8b8b609e9763a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-mock/manifest.json",
+      "bytes": 463,
+      "sha256": "546281eed080bbf1f55afd1e2301f9663ef71151908e99a83b25c91dc11e7abf"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-mock/observations.ndjson",
+      "bytes": 97883,
+      "sha256": "b2bf9e321b607202602f6a266f0b770bc20cbc2ef1314c40a60523bf70d259ef"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-mock/reasoning.ndjson",
+      "bytes": 146958,
+      "sha256": "da14aecc2ea4909998200614adac63b67b2b889982a40b5bad6396991d35d70e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-mock/results.json",
+      "bytes": 158,
+      "sha256": "1c56b5edf0f05022c5c69804781af640efeb2d0177262b0c4330b04f73774e0a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "9d0a1d4bab28d1b13ba7a03e79bf59207714a94e98b6c0023167e669a224bba7"
+    },
+    {
+      "path": "runs/heldout-final/scenario-005-mock/states.ndjson",
+      "bytes": 39198753,
+      "sha256": "c7d59aa6e40e43016233b8b2ed69c4e4015204f9a264414ead5bd6c17afa95f6"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "e1658f466857f4ee76b390fb9abef50b551f1612ff3a9c758bafe9eb04d434b1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-frequency/host_events.ndjson",
+      "bytes": 90714,
+      "sha256": "f8c7acd428c5624644d242ef3f7041124a240c3fde5658b33bb7100fbb726e81"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-frequency/manifest.json",
+      "bytes": 465,
+      "sha256": "a2bf675df138fb571f75c23a3330400c9dc5e6d5bfb391f767187b6937af6827"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-frequency/observations.ndjson",
+      "bytes": 88683,
+      "sha256": "bf5f8ac909df7f025ae21d34174537b4a10034b2f8723b9a845604645bd5fc05"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-frequency/reasoning.ndjson",
+      "bytes": 7958,
+      "sha256": "068c31243d54b4785944acc792e4a6af19f33bf6dbced31e50666e39d926385f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-frequency/results.json",
+      "bytes": 161,
+      "sha256": "1786932db1f6dbb6b65284136613674df6587a4b1af7a0fed8dea480dea3645c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-frequency/run_summary.json",
+      "bytes": 395,
+      "sha256": "fa86f7e636ce888837c57378caef4a92e4255e078cc482cebdd4bd0d8f323137"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-frequency/states.ndjson",
+      "bytes": 31172235,
+      "sha256": "dbee39dbb087e03a16ec3f314a3312c0940503642816ebc462bcac3940a308e0"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "c706673ef235d6c296bddaeba85b66a2222b87f48c1f647423d34238825d2e6e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-mock/host_events.ndjson",
+      "bytes": 99721,
+      "sha256": "7f55809b149b139c11b05c8d5f6462d7c15a0524b5c14fe93d2425ee53c807ce"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-mock/manifest.json",
+      "bytes": 465,
+      "sha256": "52a27eef7a9cb64cdbb4a92503e28c68c6eb0c9765b18d4e44fbc3ac136f4555"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-mock/observations.ndjson",
+      "bytes": 97693,
+      "sha256": "db746cc150cc5babb57a21cec4fcf86804f2b253f03db504cda3218de0a7c23b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-mock/reasoning.ndjson",
+      "bytes": 148159,
+      "sha256": "326a097f0015ea45c9346e2873b0e2f9bb2691959a2002d124608b00fee9708c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-mock/results.json",
+      "bytes": 158,
+      "sha256": "0589390a76437687c68967e0a4ad54ffd2077131de95c622ccb1abd402a8cd84"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "8a9872a97b14f45a522287c8da8cb345ac728614faaa700a813b4a633f00fc52"
+    },
+    {
+      "path": "runs/heldout-final/scenario-006-mock/states.ndjson",
+      "bytes": 38981951,
+      "sha256": "9739f2e7329608e2baf6c82d70cad6d40ada061ae9f52f87b7088cf511ed50f2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "ee8c8b453464c41f7ee45730595e97c866de004eb41fc3f4ab6cfa7e0f8c1439"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-frequency/host_events.ndjson",
+      "bytes": 90750,
+      "sha256": "182acd92206fa4e3644ec9e3bf17a5c517372bca7cce796720d9b988a9d9c8a8"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "66e09215c5c219b0f77686ac075f1a779a2df93d44f3da8ee08373ea499cc511"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-frequency/observations.ndjson",
+      "bytes": 88719,
+      "sha256": "41ad538edcf12a726d8f77e9a0f1777b80d4b9ad07d294f18af603d4f7b3ba49"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-frequency/reasoning.ndjson",
+      "bytes": 7957,
+      "sha256": "0752b601d98a6dbb7f9de6332abfcf2f25e2356abb2c1af14441733dd3fcee09"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-frequency/results.json",
+      "bytes": 161,
+      "sha256": "617ddfb6954f89f7a96dfeadf9ba41a24d972599fae9dcf5addd821b485a1cf1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-frequency/run_summary.json",
+      "bytes": 395,
+      "sha256": "6640afaf140a53b7a1edbdfb1839211ad19fddb2d1f1e140b7870b9108e1df1b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-frequency/states.ndjson",
+      "bytes": 31172235,
+      "sha256": "3512604372fcc96e87e5dcb179609740699fbf6e73dc51779580a1f6e1d84d55"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "67c56166b98c25f2000948a6218cdfa8e80046f0e2e2fe505cc8f8769949fe68"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-mock/host_events.ndjson",
+      "bytes": 98939,
+      "sha256": "08c8bde01fbb3ee229c1eb86afd7d77ff77979029ea7b17c38bfb429367c79c8"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "69622c832905bea568508f136b3446aa2961d64e971281f129f40f1800de06ec"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-mock/observations.ndjson",
+      "bytes": 96911,
+      "sha256": "95cc15c23e43a093d0bb74a7219aae19cd83fdd02fa36783ac40861cfe23faef"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-mock/reasoning.ndjson",
+      "bytes": 146967,
+      "sha256": "477649dc9bb39bdde085ef870b2b70da839d4794f0deb6807bada7e4a11a72aa"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-mock/results.json",
+      "bytes": 158,
+      "sha256": "21d50597d0d4c84a9a43ace486e345365b8c76cc2f7716c2d7167723b51547ae"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "e5995bdb970debdf92912c67f3eb2c4824d27084c564468d47492cbf4d9ceeaf"
+    },
+    {
+      "path": "runs/heldout-final/scenario-007-mock/states.ndjson",
+      "bytes": 38831033,
+      "sha256": "1966f38598390e6a7aca264004a4df914a348f0670c3b7a9d76e13f8019cfece"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-frequency/commands.ndjson",
+      "bytes": 6710,
+      "sha256": "1af20f5f9d9f12a95d82b3c3c779d3f970366b6fc31c5f680057c3c1410f128a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-frequency/host_events.ndjson",
+      "bytes": 94079,
+      "sha256": "6b37188b936cfd77aca025ae3befc8e98f863ac507eee45f71e2193d921ccc7c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "9c5aaac280b022b5e3fe63c0c2918ce4212a6b1646ec4cbd840d752cb3b01df9"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-frequency/observations.ndjson",
+      "bytes": 92051,
+      "sha256": "b62b83f18a7f25240a020fcf68d7fc6049a782a920d19b0cb14bf0a9e8c685b5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-frequency/reasoning.ndjson",
+      "bytes": 9588,
+      "sha256": "182c5fea7b14edf6347d98dd55ac188331e70407cf6ff0ee20e8ab90531bae9c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-frequency/results.json",
+      "bytes": 158,
+      "sha256": "d53c43a0f98e95c69058bef342e636d8b0f546b01b318c584ed02f255849b72f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "ecce3ab8b076650fead6ad871103a30134511348c8a8074c8987e4ec81b7917d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-frequency/states.ndjson",
+      "bytes": 32435165,
+      "sha256": "e787923362422a0aa626b01f4d243bdc4b4186c1cde2d52fe4ae789cae37d6e7"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "46168f05fcc92ef7efb9b453eea838c168c100fa2b22fa9845ce722952a5f0b5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-mock/host_events.ndjson",
+      "bytes": 99605,
+      "sha256": "f3af41768c9931b5850b998d08a95b787e4be1d60d1da5fba9bd67176d5a05b0"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "4fde4a7ed7eaab595a32cc502b82cee4fc3baa67079e0a2e50bca3b80cb97f25"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-mock/observations.ndjson",
+      "bytes": 97579,
+      "sha256": "9137ce1b33487c39607401fe1845715f002165e1c7cf884c69dca50f14424d02"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-mock/reasoning.ndjson",
+      "bytes": 146647,
+      "sha256": "e0aa614d8c1a755c595b0738e25e3a41253722a450b1fc8a97236d377ec9e4cc"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-mock/results.json",
+      "bytes": 156,
+      "sha256": "b065314c6a6714b82cc7461209b01e9de096553c4a57da848dde61b5bb5f6570"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-mock/run_summary.json",
+      "bytes": 385,
+      "sha256": "76598c23c67fb55f7441d73cd38bc0d05fe2a4bcc32a613df24ad11b91266d56"
+    },
+    {
+      "path": "runs/heldout-final/scenario-008-mock/states.ndjson",
+      "bytes": 39059538,
+      "sha256": "8b9a4a31d4d361d5438bed6319ac7286267ac915170154789af0881cb4f763b8"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-frequency/commands.ndjson",
+      "bytes": 6710,
+      "sha256": "9c493f1c6d34b672b0827751a0fb1a85113f72ea3f60f6c6444daa62b17ba001"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-frequency/host_events.ndjson",
+      "bytes": 94762,
+      "sha256": "500ca3fabf9db667639ba061deb361c12535eb40307bbd6352e813019703d3e8"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-frequency/manifest.json",
+      "bytes": 463,
+      "sha256": "82da61e94a6ba7afa95b3a88f56ffe02b3b7448df99f46d18d2d734764ee0d94"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-frequency/observations.ndjson",
+      "bytes": 92734,
+      "sha256": "fc3c9d69588c2129de5d3dfb37ebf10d047422af05c43dc2a2638976634ad513"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-frequency/reasoning.ndjson",
+      "bytes": 9588,
+      "sha256": "121206923c2011ee47a94cdfd19de3142e04b57a3561fe7be4c060ce0c97dc3a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-frequency/results.json",
+      "bytes": 158,
+      "sha256": "d5542cc91e3b9cea4cc50101f475db2308276eccca7e13be37318d282f51fdc3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "80ba02b1ed8877ae05978d5e652cd0e888757eee3e0a2f0b362963a08669b92b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-frequency/states.ndjson",
+      "bytes": 32667706,
+      "sha256": "3fda27f9fe35d2d5e3dfc6c418ca40a708ce3759012d4a2c2433c64ddfe2d579"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "4e4d7c52fe6661737292bce32d82c4b196899726626c31be7b9cf338f44d1c61"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-mock/host_events.ndjson",
+      "bytes": 99417,
+      "sha256": "703f51aadcc5ec4784b71981c2902a252e164a8d2dd632f2c0cda0279b8fb256"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-mock/manifest.json",
+      "bytes": 463,
+      "sha256": "7b2592bd63bb36a009d61f1948705ef15bc0256f9e3708e9ad276b0fe8c6f27f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-mock/observations.ndjson",
+      "bytes": 97391,
+      "sha256": "4042ce2ac5d97d1c15272700ae430f2e5153aa0d3775f7a7040e1b87bae14eef"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-mock/reasoning.ndjson",
+      "bytes": 146979,
+      "sha256": "c274738d980d846763c81a001d6f61358ebf5468f89afd3165be337002b1e406"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-mock/results.json",
+      "bytes": 156,
+      "sha256": "efb796e7959eb5f6a6a4f6985b213ee8493f23cdc07f92be8ccb033f47e08c16"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-mock/run_summary.json",
+      "bytes": 385,
+      "sha256": "ce1159ad56056bebc7c64ae232037381996668fff4a736e0e433aec608298f1c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-009-mock/states.ndjson",
+      "bytes": 39061898,
+      "sha256": "d6cb0e2a54a9de79fc184e9122370c1ed11fd355d80528ef9bafdd933c721068"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "d48073183008fd36fb2484d901f46c10490a7ff7b0ff93a3f326c21bc99cfd43"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-frequency/host_events.ndjson",
+      "bytes": 90711,
+      "sha256": "315e83080bf89e912671ba0f0c7c32845a2175314264cff28d757e3357e73c50"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "8cfb6cda76e91ae43ba867d460b3a21ce6f38f4d5f90b36742f808305468167d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-frequency/observations.ndjson",
+      "bytes": 88683,
+      "sha256": "2b94e52868e6c898d382acbc7af0d75a8222609ae3d593f1d8e44b010a5759f1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-frequency/reasoning.ndjson",
+      "bytes": 7959,
+      "sha256": "ba148db6f1cf34d2d71eb8bc57e2c8f8385a0101aaed7b5e6edda8ce5128e5dd"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-frequency/results.json",
+      "bytes": 158,
+      "sha256": "46b8df99a7acdf932b2c5e62ad4c6e71666f29797ef210c6d409987ebe974126"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "c7a32a475405cb4d2dc4a821773db3ed60fac59ab46167b8f589004704c174c1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-frequency/states.ndjson",
+      "bytes": 31176690,
+      "sha256": "fdb92adfc5d5c22069f1fd5fa8731ed8526a0dd2959c2278586aab69f5580ea7"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-mock/commands.ndjson",
+      "bytes": 6223,
+      "sha256": "2b5b022175af5dc58a6b7d6ac236e3af6db36fde5f5b85ec90627e5786192471"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-mock/host_events.ndjson",
+      "bytes": 99725,
+      "sha256": "d9d94c49784de29641b668adc6f3c1516ea5804daab16673893c94396de54417"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "a3df7fcdbea4cf24e2524cdd1eaa270be7518246c870a4993311297975265ddb"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-mock/observations.ndjson",
+      "bytes": 97697,
+      "sha256": "74971724c5f4c8af1ef2af2d700f4bcffd10f6f725d32ec0fb7b46811afe6400"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-mock/reasoning.ndjson",
+      "bytes": 147448,
+      "sha256": "e9be104fc43500171c6a60fed79e83fb9aea56f89b22c7203446183e58282700"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-mock/results.json",
+      "bytes": 158,
+      "sha256": "aee0a6dfcbf57d0835e002476c9bf8bc1989e18d3d846f4063d17aa155409f18"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "3582879452a2098d91aaf2b4be1dfe216f241a1e40cde9c5f3fb40dce2d412d2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-010-mock/states.ndjson",
+      "bytes": 38986196,
+      "sha256": "c107382a3e3126b342ffc7a57a13574b7ad34ee699e187c213e206e06f5442fe"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-frequency/commands.ndjson",
+      "bytes": 5680,
+      "sha256": "96b12ad12e817c5f4c52bd46c2089ebbee49cff1740678a256f28aae46705921"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-frequency/host_events.ndjson",
+      "bytes": 88296,
+      "sha256": "e80db852e95b29b017e9eed4d8d6f13ae4a5b5df0bdae0c69f0911bf90674589"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-frequency/manifest.json",
+      "bytes": 463,
+      "sha256": "e1ac97d9a3290bd5c0231efaed2de55ccba865b9391435fc0675b09f10b795a1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-frequency/observations.ndjson",
+      "bytes": 86268,
+      "sha256": "c493b6899618f6dbb5af85050ea7d478a1511eca5a89bb4594129707ec9adc43"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-frequency/reasoning.ndjson",
+      "bytes": 8556,
+      "sha256": "b43ada31b595ca698f11c20153891c0360c1138ed0103afb15838ee797249ff5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-frequency/results.json",
+      "bytes": 158,
+      "sha256": "df8cfdbf7464d3ddd0631d8692c4d72606ae4fc3ba24b68f82a3a881e4c6009b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "b3b1f377b28cf8197b07e06594d4bd3ec057084357ab3a82659f1ce8e73382f0"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-frequency/states.ndjson",
+      "bytes": 30516215,
+      "sha256": "8950fb0cbad3768391b922a3cfe5fdffeea0d47bba4164d93911d9d35c429342"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-mock/commands.ndjson",
+      "bytes": 6223,
+      "sha256": "bd4b0254537f7b0a3a9bb113a6fbedada815dd5d15b6527021d18198df69041c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-mock/host_events.ndjson",
+      "bytes": 99555,
+      "sha256": "e05d683cf5893968a3acc1712ce7f197ea5e5b988771a15dd21dccc9e4d9fba4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-mock/manifest.json",
+      "bytes": 463,
+      "sha256": "102e134c4f00dd47cbcb99f9f07b3a412883016d7ee21acdf77a7496cd137ea8"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-mock/observations.ndjson",
+      "bytes": 97527,
+      "sha256": "12e978c5751c6689275d6e20dc43d5593683946eda28fdf1d115b04e2432caa0"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-mock/reasoning.ndjson",
+      "bytes": 148836,
+      "sha256": "06931b7453f78c84a36cfdaff54cc986f53b51bbd72bdfe943fd69a8947b222f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-mock/results.json",
+      "bytes": 158,
+      "sha256": "685dcbcd280b50392b40720461ac338dc6c75d28dd982d7be34899650a86416a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "e7861564bc57bf70652f2feb3b49fa589a4a5c91bdada37c58b9fcd6b2662344"
+    },
+    {
+      "path": "runs/heldout-final/scenario-011-mock/states.ndjson",
+      "bytes": 38951299,
+      "sha256": "fb717152c377a9367fa35cedfc9fb4e5d542a166108721c76991240dc473ddda"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "763d878d30b72407b8e372a5e6a579531591ab11b5afe037b48398f72a18c526"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-frequency/host_events.ndjson",
+      "bytes": 91133,
+      "sha256": "b2288ab66a514e7fa70e2e161999361ba1b4ae37dcec34c76471c5ccb78d7c0c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-frequency/manifest.json",
+      "bytes": 465,
+      "sha256": "363630920d4f20f45c3857118957614e0d3cc787c0f0b86027a427e80bf85aee"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-frequency/observations.ndjson",
+      "bytes": 89102,
+      "sha256": "64511bc570ccbf40cec54dce4a73fcf0c9310cfdc461046bec7ce11de6fe7d17"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-frequency/reasoning.ndjson",
+      "bytes": 7958,
+      "sha256": "3393a95bfe80e9bc28207cb11a6417742e439a8257fa5148da1f1c175d3986fe"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-frequency/results.json",
+      "bytes": 161,
+      "sha256": "573a243807884d28279a124390e69bc769a299fd95ef6ac717b76ac531e10eaf"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-frequency/run_summary.json",
+      "bytes": 395,
+      "sha256": "72e345f7bc766fbd3ae4d97a8194bc7ad9ac48747c8e3901d77ffd8c8c5468fa"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-frequency/states.ndjson",
+      "bytes": 31247220,
+      "sha256": "5fda5c4d6cc7777df17d41353ce5f8ae556480274784596dab04bf69b2e3127c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "31ce86314976b409a712561954f60962b5c60ad56223649abfbd0bacc8212f7d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-mock/host_events.ndjson",
+      "bytes": 99418,
+      "sha256": "17280527f0b2df8b2872ebac3fcb915a8a9580c438d24087bb2b0dad937df612"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-mock/manifest.json",
+      "bytes": 465,
+      "sha256": "db1620ac20ff566e0cdaa618b01c6dcf876466e3ab451ed4411f2c2ceabbe583"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-mock/observations.ndjson",
+      "bytes": 97390,
+      "sha256": "93d3dc553f92710cfbb542ff909292fbe319c4a1418fa796d5a60b390a34b140"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-mock/reasoning.ndjson",
+      "bytes": 149998,
+      "sha256": "c6a5c404a13b7430cf8c6c360eb059009ce89e80d0b7240ce0b017de731d248e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-mock/results.json",
+      "bytes": 158,
+      "sha256": "640ed8fca55e7d590b2a089bbf14989128b49bd0553dcffc1d27728df9acf7fd"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "5c0f4ea93508050c69b079d85d6ebf86e5175711ac706b8ac7611d452a13db32"
+    },
+    {
+      "path": "runs/heldout-final/scenario-012-mock/states.ndjson",
+      "bytes": 38901291,
+      "sha256": "a1b1950992bddabd3d79f73fa6ea3f842adc21abe8117d696274160910189d1e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "22fda22762a2e029110c169cb635fb5e3e77d4a4dae31fc41d45aa71afc4f255"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-frequency/host_events.ndjson",
+      "bytes": 91169,
+      "sha256": "307868b7b0d373ffa55d50f66a5a9d7548a3a8ecb03e1aa3ec011d82dde8b2f4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "ba22072963166ab37d036f4b6a06d2a69b68c14e1064d8b6bbf19654417fd859"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-frequency/observations.ndjson",
+      "bytes": 89138,
+      "sha256": "ee80e6d81d0d3eb64f7832cc8b6f7549bda0843b46f95584e810670311f8afd4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-frequency/reasoning.ndjson",
+      "bytes": 7959,
+      "sha256": "e03bec0e9814d679502701119654aa1190387fdc58e8dd63ebdc4d6c96578bbf"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-frequency/results.json",
+      "bytes": 161,
+      "sha256": "22cd1deb04b4dc15cf1613a238d8d84e9a4a35ec830b7907c2d89dbda06a72fb"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-frequency/run_summary.json",
+      "bytes": 395,
+      "sha256": "8c8d20ca21594c85cfdf04b2b109431a0094f793f690bed160674d915bc2d0b7"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-frequency/states.ndjson",
+      "bytes": 31247220,
+      "sha256": "88478973b64f745fa8daa23309605879d86fb75bea9cc12766d7c55b431dbf94"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "60626f612b6e8ed70c0576f51262beb373dbad170cd1f32cd1dc5408e05c403c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-mock/host_events.ndjson",
+      "bytes": 98804,
+      "sha256": "5de1374d32124e6c06fcab504bcedcf571f1272b779f7919e8d793d278eb6d27"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "982434bc50e8a0c90f90f4191754b866cde8217dfc699ba0756fe0f300a25289"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-mock/observations.ndjson",
+      "bytes": 96776,
+      "sha256": "b17233cf5da7c6e106d531435f9977186c44547e8fbd8bbd08231f32912fd280"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-mock/reasoning.ndjson",
+      "bytes": 147250,
+      "sha256": "920d0b0c4a7bb05def9aca967caae7e4ebc0b173dedbdb8cbe93fac6b88047b3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-mock/results.json",
+      "bytes": 158,
+      "sha256": "464ce41f0a57b8c3a00bd92c81cf024f2d70c733a57605028ca771656305258c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-mock/run_summary.json",
+      "bytes": 386,
+      "sha256": "181fafeec62dccd9204a6fcec786ecd9bb0c8459f46fbd4dd770751a80da3c36"
+    },
+    {
+      "path": "runs/heldout-final/scenario-013-mock/states.ndjson",
+      "bytes": 38673883,
+      "sha256": "a9a27db08d06f1e2a9ed2109ee3f4a17c6e30ba73a2354f55215ea7c209d5d42"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-frequency/commands.ndjson",
+      "bytes": 6695,
+      "sha256": "0ce4c809dcf456256c9a469ae7d1ba323dfe1b4604dcb8561db89c8ddbf68fc3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-frequency/host_events.ndjson",
+      "bytes": 94224,
+      "sha256": "b1ebea46ffd2da40d01fc8cd5278c5a8c20bad1ddb35b707b58e6a1b8660144f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "d19040c1e084f4a51c28bfdbdcf6a53e92627def715192abda3eba38a7782a53"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-frequency/observations.ndjson",
+      "bytes": 92196,
+      "sha256": "6822fc9eb13e4b1878fd8a4aeafa0af399ae37d1f1a0ae57136615be4f828996"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-frequency/reasoning.ndjson",
+      "bytes": 9572,
+      "sha256": "467f1c69e78d0e0c76fd6e900a6f5c81290a4acc3e4110e5717aa6cc96739354"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-frequency/results.json",
+      "bytes": 158,
+      "sha256": "ae7750711d45e76ec3ad6fce20b989113902d91b5d073a29fcb6d6c909720746"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "46330c02cdcc0931a5edf5bc7cdebcef369b27526b275ba245d074e97886a6e9"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-frequency/states.ndjson",
+      "bytes": 32428634,
+      "sha256": "a15f2250163a41234e78c42eaf4d39394b5bae1d8a027f30db274e688c88021f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "55654a413312122a64aa3cb6540c33f2ea8137044369f854c59d79955ff2a804"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-mock/host_events.ndjson",
+      "bytes": 99443,
+      "sha256": "298d1f9b3679446625ab7498ef3e735a8b7317e215a4371d733392d026e1f7ed"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "d86d8a3cde956889402a38175c04d9e2fd05bc5326cf69bcc5e1094027dac2b8"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-mock/observations.ndjson",
+      "bytes": 97417,
+      "sha256": "e068d959dc5669c6b3d51447712659da0b0072afe9c78fa699763eccbd4bec7c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-mock/reasoning.ndjson",
+      "bytes": 148146,
+      "sha256": "89a8356647de340a5dbd67d29707b41e176282ebc25e6da6c66a3dfc9205e595"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-mock/results.json",
+      "bytes": 156,
+      "sha256": "29d58bc09344b920ad23e68c45988a3b4afaac835e4e88ada6fc55a0e7657428"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-mock/run_summary.json",
+      "bytes": 383,
+      "sha256": "2f341b04a19aa715a6e32093c650bb481cf7abc9fab7ccb9d421e43c7ec8d65a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-014-mock/states.ndjson",
+      "bytes": 39106695,
+      "sha256": "9aa1e9970de28e62850d1562448cd24ea98f86c144a3cf5b07eb7e4dba6b69eb"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-frequency/commands.ndjson",
+      "bytes": 6713,
+      "sha256": "7c0827113cac2b77f64cfc456472e85dbe06679a3be869d1f5c005aca693214b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-frequency/host_events.ndjson",
+      "bytes": 94576,
+      "sha256": "f4ffdb858a5f1b0b59d785ad1869cf5c380569ce3aa3decda75af1bc0e632467"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-frequency/manifest.json",
+      "bytes": 463,
+      "sha256": "c84b0a2f307ce9db3a2c0f1b3a8c409959c1e4cc93a03355ca61d31ef0fc1153"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-frequency/observations.ndjson",
+      "bytes": 92548,
+      "sha256": "931b7b628ab19f91e3c5a8c9d18238298ef2cde6fc2e1b46d30a2f917e9e4098"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-frequency/reasoning.ndjson",
+      "bytes": 9590,
+      "sha256": "293e241c1320c7310ee78bb70dac7f88788a8ababc5369077e63647a8a19fdf4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-frequency/results.json",
+      "bytes": 158,
+      "sha256": "6bd9e990af79efec7dc768b389f96915d8fc95b7437f1f06b74fee64a86798ed"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "65cf95a0aba1e18d4419cc2fc4c42415b65e3b8755d7c5c28b2885c7f492b1c6"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-frequency/states.ndjson",
+      "bytes": 32556874,
+      "sha256": "8e1a03f490a3766c16c1e1f64d4bc4b732068840b8f3b763dfeba2ceb318367b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "5c4ca1f812ea584866971e8374752ca17b82ce3ce7a6d26a53c414df619930b5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-mock/host_events.ndjson",
+      "bytes": 99504,
+      "sha256": "d64260cc0642645fd14e530fde496057992d39043368932289206479f38b1cdf"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-mock/manifest.json",
+      "bytes": 463,
+      "sha256": "277f4c4c4b1b3537063070e4e7b2b844d2849db7759d9ba5f5ba9982ad839b5b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-mock/observations.ndjson",
+      "bytes": 97478,
+      "sha256": "d221aeed931e34cd0f02ad1543c9428dfa51123d53e49280ad58c2feeed98ae1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-mock/reasoning.ndjson",
+      "bytes": 148664,
+      "sha256": "148e888ae22a88ef99e336b0f2d6521aeba8322e22119b4c723711a9cce3cdf3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-mock/results.json",
+      "bytes": 156,
+      "sha256": "51619398cab0e5f237a05e07690413ab1c668638471cdc1d6dd7bfe348493c48"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-mock/run_summary.json",
+      "bytes": 385,
+      "sha256": "f2f332c0556b91319f60bed3d64b55bb2266a92dfcb9d2c137cd76afa9e63558"
+    },
+    {
+      "path": "runs/heldout-final/scenario-015-mock/states.ndjson",
+      "bytes": 39021334,
+      "sha256": "c3b94de1f56fef8a7b3479be124f8b6ad1bad04496ea30cb57b94e7413a0ef99"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "d2d3b7c7d02ff8938736fff1e5ba8c23d2b3d4e44fa9b1f7fbd76c5b3fe62ad3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-frequency/host_events.ndjson",
+      "bytes": 91130,
+      "sha256": "3221ff0ee57e345ace013c6e416765dd7c548cfdda3a64c709eede899825ca99"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "e651ec12e38415cf825360bcbb49a48c7f40fb6d32d5ab691240202b464e92ce"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-frequency/observations.ndjson",
+      "bytes": 89102,
+      "sha256": "b25ef38670a0dc0ac71437e2c385c6ee74c53fb45aece172266ff7f084bb2d42"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-frequency/reasoning.ndjson",
+      "bytes": 7960,
+      "sha256": "70d8b52aa1f3ee73d94b04cb915df61219a80786443fc9cb6a30cc3ba5bca8f1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-frequency/results.json",
+      "bytes": 158,
+      "sha256": "7b4c3952bb4971c1dc04faaf4fc9dcfaf95683b6a83773c6710cff0f4ae99e33"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "0b54e99e250c6ee810df3ca38d0ee80dee1860910ffd3c6b27cea075bb56803c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-frequency/states.ndjson",
+      "bytes": 31251625,
+      "sha256": "b45f607858ab6759e0fbe2d8898e65490d73ca4069242cd087be8995f44b1135"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-mock/commands.ndjson",
+      "bytes": 6223,
+      "sha256": "2c9273143a4f9948e45551638be60b436e910f675b7d48241248c7b0375c5c57"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-mock/host_events.ndjson",
+      "bytes": 99813,
+      "sha256": "ff9c1d54adb32b5a3bdd44993f39c35ea7a9ba765066d2576f4d8c77a10d211f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "54492b0e154f2537a28c32997c35d16ab3eef9570677c6c93e664bcbeadd1b13"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-mock/observations.ndjson",
+      "bytes": 97785,
+      "sha256": "72eacbe9df82690c7b94ec0425ed67a05d9b992d7081a9286e8e284eb4a9fa2a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-mock/reasoning.ndjson",
+      "bytes": 150835,
+      "sha256": "bb615a02d5b3943476f320eaa24343d307ade09646486b2c386392cef14369f1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-mock/results.json",
+      "bytes": 158,
+      "sha256": "824cb067f5a71fd69259e1b7e70074128b90f7ba383bf5aef08143044d0e248e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "e86d6d015e77a84c036a60fea787040c7c074652304a512b9a1044cec6405715"
+    },
+    {
+      "path": "runs/heldout-final/scenario-016-mock/states.ndjson",
+      "bytes": 38919235,
+      "sha256": "1fce65c9baecc5bb1f31a85a754aa0e0334af9c1766e45fd84234fe1dd1c467f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-frequency/commands.ndjson",
+      "bytes": 5741,
+      "sha256": "fd4ce0c1bd04e2c181a0d0218654b746e8d95f1f6df7ba60de4668607693de66"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-frequency/host_events.ndjson",
+      "bytes": 88834,
+      "sha256": "1bb78452fdfa05b7feb253ac557c78b9757b0076a6f5b36a690f9dded4063d37"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-frequency/manifest.json",
+      "bytes": 463,
+      "sha256": "a7776919cbab924ca21a8dd01eef9a59877c3a247d5d310112532e677c4ed833"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-frequency/observations.ndjson",
+      "bytes": 86806,
+      "sha256": "33de499b7f8bd9314308012e479d21b10ef10352409e28ece4a106f1cd87c2ad"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-frequency/reasoning.ndjson",
+      "bytes": 8614,
+      "sha256": "3bcc01b6f474fe3f8e4bbfc245f147097ca53ed75f261392a2faed0b55b6a4e1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-frequency/results.json",
+      "bytes": 158,
+      "sha256": "426333ad902f085bcae31863471037afb04db117d010c9398c03e152b7d43fb1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "0633c6951e2d38e0b43c323454478de21b144d360551f96b070d507255517607"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-frequency/states.ndjson",
+      "bytes": 30618757,
+      "sha256": "c637005519dc5ee57dd7f98fc34a28779f1ab3a0c0ec46130e68db561a0d14c8"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-mock/commands.ndjson",
+      "bytes": 6223,
+      "sha256": "01412135e028d052e7f1539b0e4b3251c9e1abcc90a4171a49ce121d767bec2a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-mock/host_events.ndjson",
+      "bytes": 99306,
+      "sha256": "d4db3791bf752e072abce4d274b1b1aa68215d2b3781aef102e90a4c8fb97d9a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-mock/manifest.json",
+      "bytes": 463,
+      "sha256": "9961c63ea6b59a7da77ee6a9380eb777191eb81cc2d780a075173c4e97bb6abc"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-mock/observations.ndjson",
+      "bytes": 97278,
+      "sha256": "63552d3712c51ee71eca2e34846144f0ea05f7ea349f8665ee5d65bca8c7b12c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-mock/reasoning.ndjson",
+      "bytes": 147187,
+      "sha256": "b171b50d4697ebd2f956fded71ba03997c547d5eb8e7c0cfe6a99fc082b58928"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-mock/results.json",
+      "bytes": 158,
+      "sha256": "251e2f42027f62f7a89676e6d20ad547cd62384d72e58141694dc4f678c3712c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "b0b8f9a883399548008dadaa35ffd0424af302b9181357baa651879d006c1bb3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-017-mock/states.ndjson",
+      "bytes": 38777653,
+      "sha256": "17530211b70f4628ae9119f8efbe46edcbdf5298cd8d33118410470f46ae11e4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "08133a8f4ad9f8da2ef42c4aecb378326cf58e87059c5450476039066ab42f25"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-frequency/host_events.ndjson",
+      "bytes": 91844,
+      "sha256": "f6054b9fbd607f16070786a4186f18e7663951e840351b9beeb4c96eb4907868"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-frequency/manifest.json",
+      "bytes": 465,
+      "sha256": "1399ba1fc1d7bb0d71d0b97dc40628db48cc370c5ce30941314a2929ba7105be"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-frequency/observations.ndjson",
+      "bytes": 89813,
+      "sha256": "43a7331d5f267f65d1cba194dbbf506f4579074a20c1bd97bef73dbdd75a022b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-frequency/reasoning.ndjson",
+      "bytes": 7957,
+      "sha256": "767f44fbad11f26e0ffb186a49f79ae719521fc93a9ef6d4d1a619226c5d068e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-frequency/results.json",
+      "bytes": 161,
+      "sha256": "b3c6aba29e1a1f674585efebeebf4f7587f7d4e9c37d0d20822927adab5c28e6"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-frequency/run_summary.json",
+      "bytes": 395,
+      "sha256": "db6c2f3b5d03be9077b5c9d943c533f9526137bfb27f2a06b995dbf6ca41d2d4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-frequency/states.ndjson",
+      "bytes": 31451046,
+      "sha256": "e991c9a8b886df09b8bcfba561f75fe524a0acac8451cce1230b1630a7f445d3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "20333d9284f257144e9a4175607a397c8855b8c753481718f566d1984c3e9632"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-mock/host_events.ndjson",
+      "bytes": 99439,
+      "sha256": "95583ab894a18ed72235bc91bef8198505b4a2a40b593b7d9011eabe2b6ac691"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-mock/manifest.json",
+      "bytes": 465,
+      "sha256": "43d9024a56d127711a095d2f85926372101e801bb7de52e4b215d8cf4ced6db9"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-mock/observations.ndjson",
+      "bytes": 97411,
+      "sha256": "719dbcc08cbe3923c38e55bc129963913c4248e6230edaee204adeab818ad8fd"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-mock/reasoning.ndjson",
+      "bytes": 145522,
+      "sha256": "6ef3e8e84f5cca3db2508a7546be931e3827c35c1725ad712f29880774c7cefe"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-mock/results.json",
+      "bytes": 158,
+      "sha256": "1d186bf37c782412525b7e94a335cf71bc9d6f95f5879298d064bfc2778a34ae"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "ccaab80878811c26706060cf1477f91209dc4cae84e112eb26111ec926dd3f4f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-018-mock/states.ndjson",
+      "bytes": 39009407,
+      "sha256": "6d4e9415e96241e566d06cf155595f75ee702db8f99fe5ea985bb1629bdcb368"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "5723b6c9a3c06f6e168a8f692588dae150142553c8551778fb937710884949a4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-frequency/host_events.ndjson",
+      "bytes": 91880,
+      "sha256": "d57977bac90cd2c1979105d63227c1c580ba08f135775f12f66fae21d0c9d2ea"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "e2afc16f031c1d77184a06fdb20a05e32488d664ffadde94bfbc1ce7694ac4e4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-frequency/observations.ndjson",
+      "bytes": 89849,
+      "sha256": "12631cd9c6e50951e475063e10236dffb8ccd7acfcc41d13f6224160ad0a4956"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-frequency/reasoning.ndjson",
+      "bytes": 7960,
+      "sha256": "8093f5d4d63cb5341ce740986c5f0e0840c9a12a70a07301c6a254ba17df7af2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-frequency/results.json",
+      "bytes": 161,
+      "sha256": "f55ebad739b6a3181d2c079574ec02aea34817f6df99a715ffb809fb00b673ff"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-frequency/run_summary.json",
+      "bytes": 395,
+      "sha256": "f16b9bc612aa3f20bc7b0bb54f94d04fdbfc35901d3a2ce6e81f8a4d3032597b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-frequency/states.ndjson",
+      "bytes": 31451046,
+      "sha256": "b53ecdba8daafe4c5237c44ac6c3f48c678e371a636fe7fdb6d58db6c31ef056"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "0edf1d3d97c96218d14fb5910560c857d46172ea50ecc6440749b69cafd473f3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-mock/host_events.ndjson",
+      "bytes": 99196,
+      "sha256": "e75a2e00dc400914ddac60724928bc91ed314394af7b3f57c4178d7b4c5108e1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "3f015e56be8647249f88c0a2c308e3a96e04fd5464b8cc528b44d428a35bf17e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-mock/observations.ndjson",
+      "bytes": 97168,
+      "sha256": "2c3c88bb0238f9707382fe664c5abe44dd778ededdd74e7f59e5d33b2af00d4b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-mock/reasoning.ndjson",
+      "bytes": 150023,
+      "sha256": "b2bcd9692d75801c0746cc3397dc76ab927a43b4e29f5608d21895140fbafd1d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-mock/results.json",
+      "bytes": 158,
+      "sha256": "3a71994d06fee65607f962c8e26127a90c3fc65468d05b2bde34895e4c511cf3"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "d980cc4965565867c0901bce3961c21b4201965b5cd08250cbb8ab5144bb74bc"
+    },
+    {
+      "path": "runs/heldout-final/scenario-019-mock/states.ndjson",
+      "bytes": 38883633,
+      "sha256": "a3d0328e0502f3b953a7c7fae95eb5b28e27f03ee6754b98526ee8226db78b9e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-frequency/commands.ndjson",
+      "bytes": 6718,
+      "sha256": "6f0ae10a104029c94b8f5de2df1a40de5828afc710aeb567bc8d080336afc34d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-frequency/host_events.ndjson",
+      "bytes": 94761,
+      "sha256": "5fad37957fbf9b22569d839d228f8d84e3a18b1dfb72e7d2447aa91220e115a2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "73033b93f668538e506dca0e38a8e7ef812d23c14db3f1204d3f2c626071ad62"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-frequency/observations.ndjson",
+      "bytes": 92733,
+      "sha256": "ef0b424cc5221e6be950c794ee393dd1f84e56be2956b6b9ea7e572ed6b1cb23"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-frequency/reasoning.ndjson",
+      "bytes": 9593,
+      "sha256": "b759a1804b1824d7688965a3d4aa1b3c3d07cba77df7bc6c708fa17f5c77a249"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-frequency/results.json",
+      "bytes": 158,
+      "sha256": "3ab12709322822ca42eb0b2e78c88cb49595f2fe885163f9602be9d91b741ed5"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "6fa3b625d8bb4ab112139f5e3df90d8807eeee86bb1784743ab835474cc6e59b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-frequency/states.ndjson",
+      "bytes": 32560640,
+      "sha256": "095bce27d71b0d486c99ce5ddf70116a545c200553682ea8a7ecd4a29cf2b0cc"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "9b62fc9a1a0ddbf648640298c03a5797c86fddf69c5c44975e9d7a9bd72023ed"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-mock/host_events.ndjson",
+      "bytes": 99453,
+      "sha256": "cfca73d8e57c75509ef46d07c3aa71bdabbc04439d322c7e112e84b9d3387ee1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "939b8982237c90bde177b3c831a9ce790415129f0ffd4025cb7c35131d896091"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-mock/observations.ndjson",
+      "bytes": 97428,
+      "sha256": "94f7296957dd9c2b08d81ce5ce28da618b70582342f46ef7eb486030aaecbe71"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-mock/reasoning.ndjson",
+      "bytes": 146520,
+      "sha256": "7e7ea6864c93a33e12f97e2a99b8bfc98a977b1fa84a7efc3ebb5f921db13537"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-mock/results.json",
+      "bytes": 155,
+      "sha256": "b8e39653111c555e306920f7825edbeee4d2c2a0d7213d5648416286fdece95a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-mock/run_summary.json",
+      "bytes": 383,
+      "sha256": "efb6f60b8a23896305ac93dd3eb529a123014e834366b0ce3ca22019567a3faa"
+    },
+    {
+      "path": "runs/heldout-final/scenario-020-mock/states.ndjson",
+      "bytes": 39179716,
+      "sha256": "e86c24828984da96354db6c656c8deae03a14e127d6fe013e07d014c8af047ef"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-frequency/commands.ndjson",
+      "bytes": 6718,
+      "sha256": "cc4a23059412eea60f476c5e30f9bd88112a41a58e804879f6dd1d81fcb2638d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-frequency/host_events.ndjson",
+      "bytes": 95443,
+      "sha256": "1f0843ab1ed774589814fb87bcdc02501963a44e2fc83986353acba79a62f10d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-frequency/manifest.json",
+      "bytes": 463,
+      "sha256": "672ec62521207fc114d0cf8027a3f4b1260efba5be6f896a2a61b5bf6874c9cb"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-frequency/observations.ndjson",
+      "bytes": 93415,
+      "sha256": "9db70fb9172337c5619c0a905c2ec6a19bd0424c0d423fca14f1bfb295176739"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-frequency/reasoning.ndjson",
+      "bytes": 9596,
+      "sha256": "4b3cc116f3e7bcd28f05fa14c0da6028df95e5f859c4656a072611fc7a9529b0"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-frequency/results.json",
+      "bytes": 158,
+      "sha256": "3ea7e8a85202cdf645d72dcc2185bd474deb40be0f5f25321eef4433e1c709c1"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-frequency/run_summary.json",
+      "bytes": 392,
+      "sha256": "096e9ffff485f390c0d54963fa38bacd288fd60f14c97c08373be715998afbab"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-frequency/states.ndjson",
+      "bytes": 32795659,
+      "sha256": "aef0ed32d38878d53ff546b5115ae29f53a7a8eb2b834859dc55d6395f792f11"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-mock/commands.ndjson",
+      "bytes": 6193,
+      "sha256": "08205e9a993fa4cb61177ab616ea7b0d96273465ad18b1e88ffdbda079e10989"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-mock/host_events.ndjson",
+      "bytes": 99486,
+      "sha256": "5797faa075d0c15d1b8a632ddfa94d34ca5e2f7f599ffcf9c14ade5be2be7951"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-mock/manifest.json",
+      "bytes": 463,
+      "sha256": "7264487bd9020809d830bce27da58cf620cde3d6c897886279a0e7163a539048"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-mock/observations.ndjson",
+      "bytes": 97461,
+      "sha256": "3ce6a26890e6340ff8df1d4499716cf907e9dcf64abec6096c4712bfb7058c37"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-mock/reasoning.ndjson",
+      "bytes": 146898,
+      "sha256": "736e046113ab95431da23567e0a009f1ecc9cb45a5dbbd81ff3424b37391443e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-mock/results.json",
+      "bytes": 155,
+      "sha256": "c00ec24744ef2ff81873e01d7be04a8886e1e68ae10527844e86b7b9e692d4dd"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-mock/run_summary.json",
+      "bytes": 382,
+      "sha256": "63dc3d5869d98baf47a3c58559b26b77a38d121f9077fa1fa7520b46f847818a"
+    },
+    {
+      "path": "runs/heldout-final/scenario-021-mock/states.ndjson",
+      "bytes": 39193936,
+      "sha256": "906d53c9f640ae682a3dab088150584562a8c6858e8e34be9d9b7c111b1f4ddc"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-frequency/commands.ndjson",
+      "bytes": 5083,
+      "sha256": "f16fa81a8bd30f688643861d178da1711f934c1c4ca0e92ebfd9361457c4f0a2"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-frequency/host_events.ndjson",
+      "bytes": 91841,
+      "sha256": "48784a2bb054173ee66e9b9f0df303daf20acef2cfbe3ab89bca1c048a6471c6"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-frequency/manifest.json",
+      "bytes": 464,
+      "sha256": "af682299c9f97189877f3912db31c3dd2ae24c47b46504373f226f8c30bdbf36"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-frequency/observations.ndjson",
+      "bytes": 89813,
+      "sha256": "dea7af415dc2ebdaa257db08493842cbc6c81856c2aeeb5fbefb1db3b84bba4b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-frequency/reasoning.ndjson",
+      "bytes": 7959,
+      "sha256": "7dddcf969903d95e8a73506f60557487958c494f01dc74e688fa123860e75c59"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-frequency/results.json",
+      "bytes": 158,
+      "sha256": "e93d29ac1a8e59e00dc9829955efdef6c99a3568a9981ae196a5f08d240ba70e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-frequency/run_summary.json",
+      "bytes": 391,
+      "sha256": "98f634d62da6bf0eec418c75bbccbe8580ad9f3e793ef98b97a7bb2f2d92fe97"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-frequency/states.ndjson",
+      "bytes": 31455301,
+      "sha256": "d05d68b3cf3435aef28bfc2ee212daef8f5365a9245764db4fceb6c89143d9f6"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-mock/commands.ndjson",
+      "bytes": 6223,
+      "sha256": "09e1f7221873a103a7156b7151564f3c2d929ec961891db1f40a70284c46eb8b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-mock/host_events.ndjson",
+      "bytes": 99511,
+      "sha256": "98a46c63bc79d0a2b4bc0163d8edeb9e84dd297cd37acbbcdb04158fef76d8c4"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-mock/manifest.json",
+      "bytes": 464,
+      "sha256": "4caed5426b1949ad7d029c69dd82dd50f675b796c5d6ff6626f29ee526c09e10"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-mock/observations.ndjson",
+      "bytes": 97483,
+      "sha256": "c8d1b13d871f6c58f0ec9b7856053929f154f6406296eac2725e10ee77bc977e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-mock/reasoning.ndjson",
+      "bytes": 144939,
+      "sha256": "1b879618bd6c57835eb5f6388d00d4629bfd33f03625c3b6bb64cd07cdd7b848"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-mock/results.json",
+      "bytes": 158,
+      "sha256": "ea9f189dcad62e9c4a9e6497d69d2847d0d29c5bb78ed1f20b5a5f5a997d0bde"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-mock/run_summary.json",
+      "bytes": 387,
+      "sha256": "5d851de1df27da6a7d233cfa65e7fb4c771a009cd2109d02f0f5688470bcfafa"
+    },
+    {
+      "path": "runs/heldout-final/scenario-022-mock/states.ndjson",
+      "bytes": 39022391,
+      "sha256": "86847fac3776e8ed014817a13513176977f2d229640b51e7ccee97b7c812a21d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-frequency/commands.ndjson",
+      "bytes": 5741,
+      "sha256": "ff318cc5f2f09cf3c8a3274d9a67bcfc4f10e16aa1eaefbecc5a7d2786034290"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-frequency/host_events.ndjson",
+      "bytes": 89472,
+      "sha256": "353d44662d8933ad5eedfa85d316a73701a15d46ee75816ef6553f76618b5b26"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-frequency/manifest.json",
+      "bytes": 463,
+      "sha256": "e00330811c632b9f39f987528ec91b85c92978f26d7c02344c090a407c0a0fdb"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-frequency/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-frequency/observations.ndjson",
+      "bytes": 87444,
+      "sha256": "7eeb28691002985882f33d3470788c31276c7914b9e77f2802a90c0f6eacc23b"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-frequency/reasoning.ndjson",
+      "bytes": 8617,
+      "sha256": "628391ddda3c0af21b133e2555d4aa20f4368cfb628cfe18d1007ec3be16c97f"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-frequency/results.json",
+      "bytes": 158,
+      "sha256": "585915a9bc9544fc74d64bd50a918d801a7fcc834c43e3d18457266ee730c37c"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-frequency/run_summary.json",
+      "bytes": 391,
+      "sha256": "394e79b527ac4458dc5596f2625b1f3dfb8e909fca8064a08922afadc06a5d64"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-frequency/states.ndjson",
+      "bytes": 30770596,
+      "sha256": "afafc292c6a37a8fa4fd65f9b0ad58152ad12b4338b13ad6dc0c881a0fe62a13"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-mock/commands.ndjson",
+      "bytes": 6223,
+      "sha256": "247ab4362033a9c70d33a79ca7843804bbf0def77dfd18a4902430dc0ce840e9"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-mock/host_events.ndjson",
+      "bytes": 99491,
+      "sha256": "664bca6c03d194dfe656f90f9dff68db89d43e10e7cee9028d26d78b832db1ff"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-mock/manifest.json",
+      "bytes": 463,
+      "sha256": "eddb214f8a3b26ca43736381595cbd1db05144eeffb5bd757d02ba4616e32118"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-mock/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-mock/observations.ndjson",
+      "bytes": 97463,
+      "sha256": "871780222d4591a7e72a2a54d5112fb974bb76c621b1c7edc4f054493915399e"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-mock/reasoning.ndjson",
+      "bytes": 149701,
+      "sha256": "1c00fa5fc720e1c060c2edc27484320a12ddbaf6b7c9462349592f362be09088"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-mock/results.json",
+      "bytes": 158,
+      "sha256": "0aa0df2ebefbc8de6ba8ce258de05addcf34a91358397f53e0989845af8bb901"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-mock/run_summary.json",
+      "bytes": 386,
+      "sha256": "6f87d5d69a994b9991614e916665cb11cac031877bfd44e4b71514bc8d11ad7d"
+    },
+    {
+      "path": "runs/heldout-final/scenario-023-mock/states.ndjson",
+      "bytes": 38981040,
+      "sha256": "11db87b88a9c708ff6d21655d55688d141c8818f05a376a2798b5bc7535eadc2"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/deadline-25s/commands.ndjson",
+      "bytes": 343,
+      "sha256": "84e5995594bab616c7fade3fda6dfe8522645074b0b6098d982528b4edb8db35"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/deadline-25s/host_events.ndjson",
+      "bytes": 2188,
+      "sha256": "7c4a6dc43350a86fcf6a40d203b8e4500f8f7bc335e4b3c0e67b8fdfc96ba90c"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/deadline-25s/manifest.json",
+      "bytes": 405,
+      "sha256": "1dbbe7a2572eb4d1142be2629810bd38e94a7154b6572f3c230ec2d2371f69ee"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/deadline-25s/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/deadline-25s/observations.ndjson",
+      "bytes": 1755,
+      "sha256": "61fe1f619a0fab476121548a1a4191437b49b966aab5e02ce350412399e98556"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/deadline-25s/reasoning.ndjson",
+      "bytes": 855,
+      "sha256": "6774c6227fc9a8535e881c17e0ec6d58247f1fe5b8e9d2bae5f28adb07ec742f"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/deadline-25s/results.json",
+      "bytes": 158,
+      "sha256": "085ab366bc7c5bd43099a9725d14da67897df16e46ccf3ce7c5868fb89f7a1b3"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/deadline-25s/run_summary.json",
+      "bytes": 386,
+      "sha256": "8b7cbd23f05af3dc29ac2ae082047b91c3a2184ddf081a357c10db329d7d1d8e"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/deadline-25s/states.ndjson",
+      "bytes": 1353676,
+      "sha256": "29ab8f3fd903b8c3548656822e9f8e1abea36e41b5d00673943f753743f13dc4"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/delay-10s/commands.ndjson",
+      "bytes": 844,
+      "sha256": "ef9c1c6c402964874944aec8d294377b0748f24558eca92a044e50af72b71c13"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/delay-10s/host_events.ndjson",
+      "bytes": 2220,
+      "sha256": "25b5603017677cb2797eb05e94165dbaa2b8d7c05a2e4be867fdb96a6337fe36"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/delay-10s/manifest.json",
+      "bytes": 405,
+      "sha256": "c751cfc44617451b9452229d57c55752cf3e34a05c1358a6fef71cf2b139f5c4"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/delay-10s/native.stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/delay-10s/observations.ndjson",
+      "bytes": 1755,
+      "sha256": "3f96efb95cdb70f8e13e21b353b38f92b107358bdeafe60e4e5b33ebe41c8eb7"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/delay-10s/reasoning.ndjson",
+      "bytes": 3237,
+      "sha256": "7224e534306ab6fe0d6e0a602cd84f3541e08e71e7dfc63549f556d151d14b8d"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/delay-10s/results.json",
+      "bytes": 158,
+      "sha256": "8f0030dad06abdec258f2ef4be1cfa1a3cabc5ed838eb94045c102ac1e90652f"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/delay-10s/run_summary.json",
+      "bytes": 387,
+      "sha256": "42bc795bd05fa92dd2b7824a70b1542cc525cea86d2762815196a4007fa6c777"
+    },
+    {
+      "path": "runs/latency-20261004T052242Z/delay-10s/states.ndjson",
+      "bytes": 617093,
+      "sha256": "bb83bd448c572db110aa7f7618c477e48397ece237ed3844906a8cc3c11f3a81"
+    },
+    {
+      "path": "runs/matched-final/scenario-000-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46523,
+      "sha256": "5c3cfc4ccafe939bbe60d4a56542d2f607ff51f3f5477533b8991157eda82ed6"
+    },
+    {
+      "path": "runs/matched-final/scenario-000-mock/multi/matched_cycles.ndjson",
+      "bytes": 136411,
+      "sha256": "cf009e7bca7bd608edd62df87b86ec0ccbc46a00735684ddc42b55ce77e07056"
+    },
+    {
+      "path": "runs/matched-final/scenario-000-mock/single/matched_cycles.ndjson",
+      "bytes": 112389,
+      "sha256": "450b74c498db3e6b70309cb592b5584af87601830d207f9b1770c27422bf79cd"
+    },
+    {
+      "path": "runs/matched-final/scenario-001-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46581,
+      "sha256": "8edc6eedcacc37c4155f8a52e29d251e10cf2449ef393c52dc5cf588806e85c7"
+    },
+    {
+      "path": "runs/matched-final/scenario-001-mock/multi/matched_cycles.ndjson",
+      "bytes": 129715,
+      "sha256": "35ffbbbdc4b209580c27ea4783c6eaa5e2a90da07473b30d15cfe2a09c483efc"
+    },
+    {
+      "path": "runs/matched-final/scenario-001-mock/single/matched_cycles.ndjson",
+      "bytes": 105061,
+      "sha256": "8a7e0367d81ac12f266f276842f26db59e2e33d24e8dab43ed8eef0e6202d0cc"
+    },
+    {
+      "path": "runs/matched-final/scenario-002-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46503,
+      "sha256": "c3a01ca40af1046aa932bb1aa4e5dd56d2db851031fbe56e6178031ea78125ec"
+    },
+    {
+      "path": "runs/matched-final/scenario-002-mock/multi/matched_cycles.ndjson",
+      "bytes": 137882,
+      "sha256": "7539aab408e85405e72325eb82a355b2bbe4b4e5577ace499ace8e3f4aa92951"
+    },
+    {
+      "path": "runs/matched-final/scenario-002-mock/single/matched_cycles.ndjson",
+      "bytes": 111022,
+      "sha256": "dc72713f1794cffe6bdf0b9dc6dcafd593cd666b5c060759bcdce04b00f26abc"
+    },
+    {
+      "path": "runs/matched-final/scenario-003-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46578,
+      "sha256": "9ab01236d5192368457ab8ac62b9fb2a935adeae27895201f8b85483f437e6eb"
+    },
+    {
+      "path": "runs/matched-final/scenario-003-mock/multi/matched_cycles.ndjson",
+      "bytes": 138539,
+      "sha256": "a0d234202c4a763879ed0a85c4c330b9628cadff7bab1eed55cb8ea8401a8a10"
+    },
+    {
+      "path": "runs/matched-final/scenario-003-mock/single/matched_cycles.ndjson",
+      "bytes": 110494,
+      "sha256": "da9907b0c0a346d5f6cd004c3e323b77ff53578df9a999d19406522b108582d0"
+    },
+    {
+      "path": "runs/matched-final/scenario-004-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46514,
+      "sha256": "3540dad4f2cbc9d566498150972ab5c458928b947e351e0725476754686c9b98"
+    },
+    {
+      "path": "runs/matched-final/scenario-004-mock/multi/matched_cycles.ndjson",
+      "bytes": 134299,
+      "sha256": "7c111e5f6c5c7886b26bb82176321c00de3aedfe374ddd91f92eedf2502566a3"
+    },
+    {
+      "path": "runs/matched-final/scenario-004-mock/single/matched_cycles.ndjson",
+      "bytes": 112401,
+      "sha256": "931ca2e6c21ef8b2917a3540dff5e94af1fb252db76c92ba3b92c16beaf2d5f6"
+    },
+    {
+      "path": "runs/matched-final/scenario-005-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46576,
+      "sha256": "8e7d6973ed7c9599e921e4169330726d9042af3b33d7f4b1aadd9754e335dac8"
+    },
+    {
+      "path": "runs/matched-final/scenario-005-mock/multi/matched_cycles.ndjson",
+      "bytes": 134037,
+      "sha256": "91a9d9230c188f99615d8eeb08bd632aa93b2f70a0e85861d2318b8a3280ba5e"
+    },
+    {
+      "path": "runs/matched-final/scenario-005-mock/single/matched_cycles.ndjson",
+      "bytes": 107847,
+      "sha256": "b96a4235afd004f0295b3b001d41193a737bffe584e402e3ce1c44a028fba309"
+    },
+    {
+      "path": "runs/matched-final/scenario-006-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46599,
+      "sha256": "09f70e0f949edb9d503cba154a324315aaf5bf6ca1909d71f4bcce55c382208e"
+    },
+    {
+      "path": "runs/matched-final/scenario-006-mock/multi/matched_cycles.ndjson",
+      "bytes": 132073,
+      "sha256": "e98dc77d26c8701b1838c7adbedd9f3a30355bcf0324a7a687ea7ac92ae6be4d"
+    },
+    {
+      "path": "runs/matched-final/scenario-006-mock/single/matched_cycles.ndjson",
+      "bytes": 112112,
+      "sha256": "edca5605176ecdbc7c6ffe37b0284d7593b9b3f0c23b83b26e0897b96f29bdaf"
+    },
+    {
+      "path": "runs/matched-final/scenario-007-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46586,
+      "sha256": "bdfbc948ae8cb2b865089c1d8194f507077d4ffabb141673610f3f0bb013ba24"
+    },
+    {
+      "path": "runs/matched-final/scenario-007-mock/multi/matched_cycles.ndjson",
+      "bytes": 141374,
+      "sha256": "e08f185c360cb865c1c8a4e233712829954a1c2493c2bf3f1457396d3fd2d4b8"
+    },
+    {
+      "path": "runs/matched-final/scenario-007-mock/single/matched_cycles.ndjson",
+      "bytes": 110324,
+      "sha256": "201f83d22f299748ffdb933da372eaeb0b191b4c9a2ee31b3f5c071eb7e8cec3"
+    },
+    {
+      "path": "runs/matched-final/scenario-008-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46578,
+      "sha256": "7fdc48cc1bcad0d3c7e6d5131fda749ac0901c452f8ffca5f3aa7bd4a2f11660"
+    },
+    {
+      "path": "runs/matched-final/scenario-008-mock/multi/matched_cycles.ndjson",
+      "bytes": 129898,
+      "sha256": "05e682d485773bbde228a2c622927b7a222bd914d9251a3c97b85195e6395fdf"
+    },
+    {
+      "path": "runs/matched-final/scenario-008-mock/single/matched_cycles.ndjson",
+      "bytes": 109028,
+      "sha256": "c741b331bb72523b63933f0263f170d14a7039b7ac0801eab9bd7101b5a30f56"
+    },
+    {
+      "path": "runs/matched-final/scenario-009-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46569,
+      "sha256": "c7b62b3f72d722049f01b129a3b086890cef88dcf9cac900488dc8d328985426"
+    },
+    {
+      "path": "runs/matched-final/scenario-009-mock/multi/matched_cycles.ndjson",
+      "bytes": 132161,
+      "sha256": "b7f7882b93cffee6704f3f5e65de913b3b2263dd9eaa2c72a306e96bcf0e2dc2"
+    },
+    {
+      "path": "runs/matched-final/scenario-009-mock/single/matched_cycles.ndjson",
+      "bytes": 111556,
+      "sha256": "e35067de17550706ea0a9a7325f58b894b82acb7e555e77510f0ca42e7436ffb"
+    },
+    {
+      "path": "runs/matched-final/scenario-010-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46588,
+      "sha256": "d4e84910aff055e368551347f460a1bfee43a48a587e523827e498caabf1a9a2"
+    },
+    {
+      "path": "runs/matched-final/scenario-010-mock/multi/matched_cycles.ndjson",
+      "bytes": 136136,
+      "sha256": "f06d340f925e37ff15bdead91ea8e8f10ce623239ffbe2ee0ccbc2e410afc34c"
+    },
+    {
+      "path": "runs/matched-final/scenario-010-mock/single/matched_cycles.ndjson",
+      "bytes": 113322,
+      "sha256": "4059e812739f0898b37b5d1341948327f77c3ca7ee4cf8958e27a6fd88b53c2e"
+    },
+    {
+      "path": "runs/matched-final/scenario-011-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46583,
+      "sha256": "35281893cdc8a20d8202ee073a6bd2a7bb1bb4e284b23593be0d07b68c43fa89"
+    },
+    {
+      "path": "runs/matched-final/scenario-011-mock/multi/matched_cycles.ndjson",
+      "bytes": 134487,
+      "sha256": "963554534870094a2e36b10edad41f31a9d31fea4ecdad814b252e784693bc35"
+    },
+    {
+      "path": "runs/matched-final/scenario-011-mock/single/matched_cycles.ndjson",
+      "bytes": 111255,
+      "sha256": "b9df17017ea26b9162782fe14176fdbdabc8654b6cbd729d8c49bab53af10713"
+    },
+    {
+      "path": "runs/matched-final/scenario-012-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46593,
+      "sha256": "32b6b758b7a28f4c5af74bddd0569d508f64ca77972456772d3bf32b89fc55b4"
+    },
+    {
+      "path": "runs/matched-final/scenario-012-mock/multi/matched_cycles.ndjson",
+      "bytes": 138190,
+      "sha256": "05f0544d0b7844a54970476903aad8ab833db1840ef55808be9db66f33abb465"
+    },
+    {
+      "path": "runs/matched-final/scenario-012-mock/single/matched_cycles.ndjson",
+      "bytes": 111917,
+      "sha256": "97a0d3539ee12a1f5e32364c02c5c0e0680a12735706a910e2ec6406f5c3acef"
+    },
+    {
+      "path": "runs/matched-final/scenario-013-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46598,
+      "sha256": "35fd511c280a555ce87f0a45366b3b0240d7cecb52efe5474d2c1c4eceb50b7b"
+    },
+    {
+      "path": "runs/matched-final/scenario-013-mock/multi/matched_cycles.ndjson",
+      "bytes": 135280,
+      "sha256": "e4d772a842381775a350eba97e4d9d16bffaef8b4186ff9148678a7e76fd092a"
+    },
+    {
+      "path": "runs/matched-final/scenario-013-mock/single/matched_cycles.ndjson",
+      "bytes": 108635,
+      "sha256": "887c7d63ec71cfde34707d5b7a6c16efd136973ebf3265530539b3e0ec53a9f1"
+    },
+    {
+      "path": "runs/matched-final/scenario-014-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46465,
+      "sha256": "c4a05e32630cceff223f28c18324d2cf9d0b8a900a5c2ddadfe7f0d321d6698b"
+    },
+    {
+      "path": "runs/matched-final/scenario-014-mock/multi/matched_cycles.ndjson",
+      "bytes": 128374,
+      "sha256": "1004894c40310ce5c188a48cd74dc9914899ce1ca75250ff7a0c4d20c3e929fd"
+    },
+    {
+      "path": "runs/matched-final/scenario-014-mock/single/matched_cycles.ndjson",
+      "bytes": 109930,
+      "sha256": "de9a5c9b03af77a6547c36e0d8e2da27ec8abb1febd33fa9b2ba5e442d9d447b"
+    },
+    {
+      "path": "runs/matched-final/scenario-015-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46495,
+      "sha256": "b33dd480e091a557cbdbbbb18fb29aaaf083f48cbe1a145a96598134ea530e63"
+    },
+    {
+      "path": "runs/matched-final/scenario-015-mock/multi/matched_cycles.ndjson",
+      "bytes": 135584,
+      "sha256": "05630e60501c420aae0fd4e8a62f1dab72308d7f29ab323a9d9fdf5b9c961765"
+    },
+    {
+      "path": "runs/matched-final/scenario-015-mock/single/matched_cycles.ndjson",
+      "bytes": 106126,
+      "sha256": "cf45a49ed1ed6dcba248d7f948c058f805a54bb8ffede02f6edf9bb469f35e4d"
+    },
+    {
+      "path": "runs/matched-final/scenario-016-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46587,
+      "sha256": "289426b01c7980ed0b5d5a762e948bbbf323bb6072dbf08cfc1ed25ff6238656"
+    },
+    {
+      "path": "runs/matched-final/scenario-016-mock/multi/matched_cycles.ndjson",
+      "bytes": 137205,
+      "sha256": "1394bf52c4f467b5c221086109cd45c405f94f61c010f557e90c4a4892668f59"
+    },
+    {
+      "path": "runs/matched-final/scenario-016-mock/single/matched_cycles.ndjson",
+      "bytes": 113376,
+      "sha256": "04891fd1c0199ace481c4f0a4f2f7b0711ac35710de84e1d657eb90712144138"
+    },
+    {
+      "path": "runs/matched-final/scenario-017-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46584,
+      "sha256": "7784b9f23c2350e8848ce18e87a9b2bbca8abe3c08fd5d625f5be45d1211ac19"
+    },
+    {
+      "path": "runs/matched-final/scenario-017-mock/multi/matched_cycles.ndjson",
+      "bytes": 138604,
+      "sha256": "36ee2bc515190fe9fc496f3ec94650a816533afecf1ea9c0037ec2788cf54d98"
+    },
+    {
+      "path": "runs/matched-final/scenario-017-mock/single/matched_cycles.ndjson",
+      "bytes": 110907,
+      "sha256": "879cee9936b09ff65f730c5a187b6f905aff422c544314028ac5b495f9e659e9"
+    },
+    {
+      "path": "runs/matched-final/scenario-018-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46577,
+      "sha256": "b4c64be6007326e931fb79921ae18eebbf408209a34e10df52ffd83b7581b3f8"
+    },
+    {
+      "path": "runs/matched-final/scenario-018-mock/multi/matched_cycles.ndjson",
+      "bytes": 138360,
+      "sha256": "20243286c5d2f08d699e6efa931a4529dcff98206008bf76358073505db23a76"
+    },
+    {
+      "path": "runs/matched-final/scenario-018-mock/single/matched_cycles.ndjson",
+      "bytes": 115045,
+      "sha256": "ac97851ffae6de0ad3691ada6307a726658c75dcdfdc0e0e90de2ad896465a8c"
+    },
+    {
+      "path": "runs/matched-final/scenario-019-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46601,
+      "sha256": "0c166bd5518204be821e9f520385568520f982bd8d8c1c0f4bd9e8af1c62d4a1"
+    },
+    {
+      "path": "runs/matched-final/scenario-019-mock/multi/matched_cycles.ndjson",
+      "bytes": 136834,
+      "sha256": "8b2c647098d4eb755fe119fb3b0b655646f52ef775141eae171ce0100cbd9beb"
+    },
+    {
+      "path": "runs/matched-final/scenario-019-mock/single/matched_cycles.ndjson",
+      "bytes": 111411,
+      "sha256": "7b929cb4332bb03835ac58f695baf85bee3fc11e7e2e31ded1e1ba0eafb60f8b"
+    },
+    {
+      "path": "runs/matched-final/scenario-020-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46555,
+      "sha256": "c3045f0ca57ba2017061a0730af41760443cc4334b20fc7926c5eb73a689955d"
+    },
+    {
+      "path": "runs/matched-final/scenario-020-mock/multi/matched_cycles.ndjson",
+      "bytes": 138051,
+      "sha256": "59d21b5b6d4fb5d02fe7da7bfe3332149d988cd5217182f7d2963515dbebe5d7"
+    },
+    {
+      "path": "runs/matched-final/scenario-020-mock/single/matched_cycles.ndjson",
+      "bytes": 112131,
+      "sha256": "94737863bdd46912d125fb26b23394ee854443b9add089f042c73deb2d2e5d8a"
+    },
+    {
+      "path": "runs/matched-final/scenario-021-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46576,
+      "sha256": "21c281fc9dcb2e9f8b642af04d3a2f3943e169cff6de8bf0a497da9dc18a1fa8"
+    },
+    {
+      "path": "runs/matched-final/scenario-021-mock/multi/matched_cycles.ndjson",
+      "bytes": 136323,
+      "sha256": "9c2d19724c9c6c748233e8983f83acecfec55f35419719ad0fa7084d8a662826"
+    },
+    {
+      "path": "runs/matched-final/scenario-021-mock/single/matched_cycles.ndjson",
+      "bytes": 110184,
+      "sha256": "31b865e14071db09d997b220c2aaa2cfc5a4d8936a650679a779ed7e907ccf65"
+    },
+    {
+      "path": "runs/matched-final/scenario-022-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46578,
+      "sha256": "639b8d54ddf5c7e4c8a3b3dfe6bc0259147ab50760b4e75fee4d40c03de8d310"
+    },
+    {
+      "path": "runs/matched-final/scenario-022-mock/multi/matched_cycles.ndjson",
+      "bytes": 132684,
+      "sha256": "993ee99af0dae8b839277d9fbbb2ce05bf2dd41374f66a1d2451140053b7ccb2"
+    },
+    {
+      "path": "runs/matched-final/scenario-022-mock/single/matched_cycles.ndjson",
+      "bytes": 115546,
+      "sha256": "0364c8af0b179512bc84b510c0887ff7d6647d0c1f9fb1b56abd0a07f3c28739"
+    },
+    {
+      "path": "runs/matched-final/scenario-023-mock/frequency/matched_cycles.ndjson",
+      "bytes": 46593,
+      "sha256": "16d862754d36f3b3122406ce1cc995dd2d42daf572cc65c3dc35b56a3fbeaf7e"
+    },
+    {
+      "path": "runs/matched-final/scenario-023-mock/multi/matched_cycles.ndjson",
+      "bytes": 133715,
+      "sha256": "77fca02a405b82b90d3ec0b309eb2e057550884351a066d012366881abce3fa1"
+    },
+    {
+      "path": "runs/matched-final/scenario-023-mock/single/matched_cycles.ndjson",
+      "bytes": 111976,
+      "sha256": "4e942f4de0a41de4a12d26af743fee8d0f343cbe708865cb066c319d1337b8a1"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "python": {
+    "tests": 89,
+    "result": "passed",
+    "wall_seconds": 7.45
+  },
+  "native_release": {
+    "cases": 18,
+    "assertions": 76479,
+    "transport_tests": 5,
+    "ctest_targets_passed": 2,
+    "wall_seconds": 6.58
+  },
+  "local_sanitizers": {
+    "platform": "macOS arm64",
+    "asan": true,
+    "ubsan": true,
+    "leak_detection": false,
+    "original_core_and_transport": "2/2 passed",
+    "trajectory_invariance_after_rebuild": {
+      "assertions": 64830,
+      "cases": 1,
+      "result": "passed"
+    }
+  },
+  "lint": {
+    "ruff": "passed",
+    "clang_format": "passed"
+  },
+  "hosted_ci": "configured; not executed in this local delivery",
+  "wheel": "universal wheel installed in separate invocation directory; offline run, embedded viewer assets, and exact replay passed",
+  "viewer_qa": {
+    "desktop": [
+      1440,
+      1100
+    ],
+    "mobile": [
+      390,
+      844
+    ],
+    "console_errors": 0,
+    "external_resource_requests": 0,
+    "playback": true,
+    "evidence_time_boundary": true,
+    "evaluator_outcome_boundary": true,
+    "timeline_positions": true
+  }
+}
